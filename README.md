@@ -18,6 +18,7 @@ Enter the `LLaMA-Factory` directory, download the [Llama-3.2-3B](https://hugging
 
 ```python
 conda env create -f environment.yaml
+conda activate llama_factory
 ```
 
 ## ✨Fine-tuning
