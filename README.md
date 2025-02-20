@@ -20,7 +20,7 @@ Enter the `LLaMA-Factory` directory, download the [Llama-3.2-3B](https://hugging
 conda env create -f environment.yaml
 ```
 
-## ✨微调
+## ✨Fine-tuning
 
 - Generity
 ```python
@@ -54,7 +54,7 @@ CUDA_VISIBLE_DEVICES=0 llamafactory-cli train --stage sft --do_train --model_nam
 ```
 
 
-## 🚨评估
+## 🚨Evaluation
 - Generity
 ```python
 CUDA_VISIBLE_DEVICES=0 llamafactory-cli eval --model_name_or_path ./[Llama-3.2-3B or Llama-3.1-8B] --template llama3 --task mmlu_test_None --lang en --n_shot 0 --batch_size 8 --trust_remote_code --adapter_name_or_path ./saves/[Llama-3.2-3B or Llama-3.1-8B]/Generity
