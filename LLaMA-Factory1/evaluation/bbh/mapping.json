@@ -1,0 +1,137 @@
+{
+  "boolean_expressions": {
+    "name": "boolean expressions",
+    "category": "Other",
+    "option_num": 2
+  },
+  "causal_judgement": {
+    "name": "causal judgement",
+    "category": "Other",
+    "option_num": 2
+  },
+  "date_understanding": {
+    "name": "date understanding",
+    "category": "Other",
+    "option_num": 6
+  },
+  "disambiguation_qa": {
+    "name": "disambiguation qa",
+    "category": "Other",
+    "option_num": 3
+  },
+  "dyck_languages": {
+    "name": "dyck languages",
+    "category": "Other",
+    "option_num": 4
+  },
+  "formal_fallacies": {
+    "name": "formal fallacies",
+    "category": "Other",
+    "option_num": 2
+  },
+  "geometric_shapes": {
+    "name": "geometric shapes",
+    "category": "Other",
+    "option_num": 11
+  },
+  "hyperbaton": {
+    "name": "hyperbaton",
+    "category": "Other",
+    "option_num": 2
+  },
+  "logical_deduction_five_objects": {
+    "name": "logical deduction five objects",
+    "category": "Other",
+    "option_num": 5
+  },
+  "logical_deduction_seven_objects": {
+    "name": "logical deduction seven objects",
+    "category": "Other",
+    "option_num": 7
+  },
+  "logical_deduction_three_objects": {
+    "name": "logical deduction three objects",
+    "category": "Other",
+    "option_num": 3
+  },
+  "movie_recommendation": {
+    "name": "movie recommendation",
+    "category": "Other",
+    "option_num": 5
+  },
+  "multistep_arithmetic_two": {
+    "name": "multistep arithmetic two",
+    "category": "Other",
+    "option_num": 4
+  },
+  "navigate": {
+    "name": "navigate",
+    "category": "Other",
+    "option_num": 2
+  },
+  "object_counting": {
+    "name": "object counting",
+    "category": "Other",
+    "option_num": 4
+  },
+  "penguins_in_a_table": {
+    "name": "penguins in a table",
+    "category": "Other",
+    "option_num": 5
+  },
+  "reasoning_about_colored_objects": {
+    "name": "reasoning about colored objects",
+    "category": "Other",
+    "option_num": 18
+  },
+  "ruin_names": {
+    "name": "ruin names",
+    "category": "Other",
+    "option_num": 4
+  },
+  "salient_translation_error_detection": {
+    "name": "salient translation error detection",
+    "category": "Other",
+    "option_num": 6
+  },
+  "snarks": {
+    "name": "snarks",
+    "category": "Other",
+    "option_num": 2
+  },
+  "sports_understanding": {
+    "name": "sports understanding",
+    "category": "Other",
+    "option_num": 2
+  },
+  "temporal_sequences": {
+    "name": "temporal sequences",
+    "category": "Other",
+    "option_num": 4
+  },
+  "tracking_shuffled_objects_five_objects": {
+    "name": "tracking shuffled objects five objects",
+    "category": "Other",
+    "option_num": 5
+  },
+  "tracking_shuffled_objects_seven_objects": {
+    "name": "tracking shuffled objects seven objects",
+    "category": "Other",
+    "option_num": 7
+  },
+  "tracking_shuffled_objects_three_objects": {
+    "name": "tracking shuffled objects three objects",
+    "category": "Other",
+    "option_num": 3
+  },
+  "web_of_lies": {
+    "name": "web of lies",
+    "category": "Other",
+    "option_num": 2
+  },
+  "word_sorting": {
+    "name": "word sorting",
+    "category": "Other",
+    "option_num": 4
+  }
+}

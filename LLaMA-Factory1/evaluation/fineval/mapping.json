@@ -1,0 +1,130 @@
+{
+  "accounting_exam": {
+    "name": "China's accounting exam",
+    "category": "Other"
+  },
+  "actuary_examination": {
+    "name": "China's actuary examination",
+    "category": "Other"
+  },
+  "advanced_financial_accounting_examination": {
+    "name": "China's advanced financial accounting examination",
+    "category": "Other"
+  },
+  "auditing_examination": {
+    "name": "China's auditing examination",
+    "category": "Other"
+  },
+  "banking_qualification_examination": {
+    "name": "China's banking qualification examination",
+    "category": "Other"
+  },
+  "central_banking_exam": {
+    "name": "China's central banking exam",
+    "category": "Other"
+  },
+  "commercial_bank_finance_exam": {
+    "name": "China's commercial bank finance exam",
+    "category": "Other"
+  },
+  "corporate_finance_exam": {
+    "name": "China's corporate finance exam",
+    "category": "Other"
+  },
+  "corporate_strategy_and_risk_management_exam": {
+    "name": "China's corporate strategy and risk management exam",
+    "category": "Other"
+  },
+  "cost_accounting_examination": {
+    "name": "China's cost accounting examination",
+    "category": "Other"
+  },
+  "CPA_examination": {
+    "name": "China's CPA examination",
+    "category": "Other"
+  },
+  "econometrics_exam": {
+    "name": "China's econometrics exam",
+    "category": "Other"
+  },
+  "economic_law_examination": {
+    "name": "China's economic law examination",
+    "category": "Other"
+  },
+  "finance_exam": {
+    "name": "China's finance exam",
+    "category": "Other"
+  },
+  "financial_engineering_exam": {
+    "name": "China's financial engineering exam",
+    "category": "Other"
+  },
+  "financial_management_examination": {
+    "name": "China's financial management examination",
+    "category": "Other"
+  },
+  "financial_markets_exam": {
+    "name": "China's financial markets exam",
+    "category": "Other"
+  },
+  "fund_practitioner_qualification_examination": {
+    "name": "China's fund practitioner qualification examination",
+    "category": "Other"
+  },
+  "futures_practitioner_qualification_examination": {
+    "name": "China's futures practitioner qualification examination",
+    "category": "Other"
+  },
+  "insurance_examination": {
+    "name": "China's insurance examination",
+    "category": "Other"
+  },
+  "intermediate_financial_accounting_examination": {
+    "name": "China's intermediate financial accounting examination",
+    "category": "Other"
+  },
+  "international_economics_exam": {
+    "name": "China's international economics exam",
+    "category": "Other"
+  },
+  "international_finance_exam": {
+    "name": "China's international finance exam",
+    "category": "Other"
+  },
+  "investment_exam": {
+    "name": "China's investment exam",
+    "category": "Other"
+  },
+  "macroeconomics_exam": {
+    "name": "China's macroeconomics exam",
+    "category": "Other"
+  },
+  "management_accounting_examination": {
+    "name": "China's management accounting examination",
+    "category": "Other"
+  },
+  "microeconomics_exam": {
+    "name": "China's microeconomics exam",
+    "category": "Other"
+  },
+  "monetary_and_financial_examination": {
+    "name": "China's monetary and financial examination",
+    "category": "Other"
+  },
+  "political_economics_exam": {
+    "name": "China's political economics exam",
+    "category": "Other"
+  },
+  "securities_practitioner_qualification_examination": {
+    "name": "China's securities practitioner qualification examination",
+    "category": "Other"
+  },
+  "statistics_exam": {
+    "name": "China's statistics exam",
+    "category": "Other"
+  },
+  "tax_law_examination": {
+    "name": "China's tax law examination",
+    "category": "Other"
+  }
+}

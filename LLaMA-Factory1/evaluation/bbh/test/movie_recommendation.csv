@@ -1,0 +1,251 @@
+id,question,A,B,C,D,E,answer
+0,"Find a movie similar to Batman, The Mask, The Fugitive, Pretty Woman:",The Front Page,Maelstrom,The Lion King,Lamerica,,C
+1,"Find a movie similar to The Sixth Sense, The Matrix, Forrest Gump, The Shawshank Redemption:",Street Fighter II The Animated Movie,The Sheltering Sky,The Boy Who Could Fly,Terminator 2 Judgment Day,,D
+2,"Find a movie similar to Schindler's List, Braveheart, The Silence of the Lambs, Tombstone:",Orlando,Guilty of Romance,Forrest Gump,All the Real Girls,,C
+3,"Find a movie similar to Terminator 2 Judgment Day, The Fugitive, The Shawshank Redemption, Dead Man Walking:",Walk,Don't Run,Shaun the Sheep Movie,Rocky IV,Braveheart,E
+4,"Find a movie similar to Braveheart, The Mask, The Fugitive, Batman:",Club Dread,George Washington,Schindler's List,Once Upon a Time in America,,C
+5,"Find a movie similar to Heat, The Fugitive, Forrest Gump, The Silence of the Lambs:",Death Race 2,Cannonball Run II,Independence Day,Slumber Party Massacre II,,C
+6,"Find a movie similar to Raiders of the Lost Ark, The Shawshank Redemption, Inception, Pulp Fiction:",Beyond the Poseidon Adventure,The Chorus,Forrest Gump,Scouts Guide to the Zombie Apocalypse,,C
+7,"Find a movie similar to Schindler's List, Pulp Fiction, Braveheart, The Usual Suspects:",12 Angry Men,Mo' Better Blues,Mindhunters,The Shawshank Redemption,,D
+8,"Find a movie similar to Jurassic Park, The Silence of the Lambs, Schindler's List, Braveheart:",A Hard Day's Night,Showtime,Forrest Gump,Eddie the Eagle,,C
+9,"Find a movie similar to The Lord of the Rings The Two Towers, The Lord of the Rings The Fellowship of the Ring, Star Wars Episode IV - A New Hope, The Matrix:",The Return,The Hidden Fortress,Schindler's List,The End of the Affair,,C
+10,"Find a movie similar to Forrest Gump, Pulp Fiction, The Fugitive, Dances with Wolves:",Dragonheart 3 The Sorcerer's Curse,Chi-Raq,Stargate,Tae Guk Gi The Brotherhood of War,,C
+11,"Find a movie similar to Forrest Gump, The Fugitive, The Shawshank Redemption, Pulp Fiction:",Anchors Aweigh,Looney Tunes Back in Action,Porky's Revenge,Dances with Wolves,,D
+12,"Find a movie similar to Forrest Gump, The Silence of the Lambs, Mission Impossible, Jurassic Park:",Joe Somebody,Dogfight,Independence Day,Twin Peaks Fire Walk with Me,,C
+13,"Find a movie similar to The Shawshank Redemption, The Usual Suspects, Pulp Fiction, Fargo:",Damage,Pie in the Sky,The Fugitive,A Plasticine Crow,,C
+14,"Find a movie similar to The Fugitive, Pulp Fiction, The Usual Suspects, Terminator 2 Judgment Day:",The Amazing Panda Adventure,Sweeney Todd,Welcome to Sarajevo,Seven,,D
+15,"Find a movie similar to Forrest Gump, The Silence of the Lambs, Seven, Fargo:",Gandhi,Schindler's List,Dogfight,Repo Man,,B
+16,"Find a movie similar to Pulp Fiction, Braveheart, The Shawshank Redemption, Crimson Tide:",Goon Last of the Enforcers,A Very Harold & Kumar 3D Christmas,The Fugitive,A Separation,,C
+17,"Find a movie similar to The Lion King, The Fugitive, Schindler's List, The Shawshank Redemption:",The Art of the Steal,Pulp Fiction,Battlestar Galactica The Plan,Breakin' All the Rules,,B
+18,"Find a movie similar to Pulp Fiction, The Shawshank Redemption, Schindler's List, Dances with Wolves:",Easter Parade,Captain America The First Avenger,Braveheart,Manic,,C
+19,"Find a movie similar to Beauty and the Beast, Independence Day, Forrest Gump, Jurassic Park:",The Bag Man,The Silence of the Lambs,Extreme Measures,Kicking Off,,B
+20,"Find a movie similar to The Shawshank Redemption, Forrest Gump, Dances with Wolves, Mr Holland's Opus:",PK,The Great Gatsby,Philadelphia,Casper Meets Wendy,,C
+21,"Find a movie similar to Inception, Pulp Fiction, Forrest Gump, Raiders of the Lost Ark:",Who's Afraid of Virginia Woolf,Fantastic Mr Fox,Clash of the Titans,Independence Day,,D
+22,"Find a movie similar to Star Wars Episode VII - The Force Awakens, Inside Out, Pulp Fiction, Raiders of the Lost Ark:",Ernest Rides Again,Forrest Gump,The Proposal,Everything You Always Wanted to Know About Sex  But Were Afraid to Ask,,B
+23,"Find a movie similar to Spider-Man, Spider-Man 2, The Matrix, Independence Day:",Jurassic World Fallen Kingdom,The Fifth Element,Across the Universe,Insomnia,,B
+24,"Find a movie similar to Star Wars Episode V - The Empire Strikes Back, Groundhog Day, Mission Impossible, Star Wars Episode IV - A New Hope:",View from the Top,The Doors,Raiders of the Lost Ark,Quick Change,,C
+25,"Find a movie similar to Army of Darkness, Go, The Sixth Sense, Alien:",Cool Hand Luke,Children of the Corn III,Ice Guardians,Cinema Paradiso,,A
+26,"Find a movie similar to Apollo 13, Jurassic Park, Die Hard With a Vengeance, Forrest Gump:",Killer Movie,Stealth,The Last Man on Earth,True Lies,,D
+27,"Find a movie similar to Pulp Fiction, The Usual Suspects, Schindler's List, Fargo:",Stoked The Rise and Fall of Gator,Surviving the Game,Look Who's Talking,The Shawshank Redemption,,D
+28,"Find a movie similar to Toy Story, The Mask, Batman, The Lion King:",Exit Wounds,Punch-Drunk Love,Seeking Justice,Pretty Woman,,D
+29,"Find a movie similar to The Shawshank Redemption, Pulp Fiction, Schindler's List, Braveheart:",The Bank Job,Robot Carnival,Dances with Wolves,The Family Stone,,C
+30,"Find a movie similar to Independence Day, The Silence of the Lambs, Indiana Jones and the Temple of Doom, Fargo:",Care Bears Movie II A New Generation,Noises Off,The Fugitive,Lights Out,,C
+31,"Find a movie similar to Batman, Pulp Fiction, Apollo 13, Schindler's List:",The Last Kiss,Europa,Braveheart,Rise of the Planet of the Apes,,C
+32,"Find a movie similar to The Fugitive, Braveheart, Schindler's List, The Lion King:",Mad City,The Scorpion King,The Shawshank Redemption,City of Men,,C
+33,"Find a movie similar to Braveheart, Dances with Wolves, Pulp Fiction, Schindler's List:",Tickling Giants,Shadow of the Vampire,The Usual Suspects,On the Town,,C
+34,"Find a movie similar to The Sixth Sense, The Lord of the Rings The Two Towers, The Usual Suspects, Forrest Gump:",Nothing to Declare,Crossfire,End of Days,Star Wars Episode IV - A New Hope,,D
+35,"Find a movie similar to Goodfellas, Raiders of the Lost Ark, Star Wars Episode IV - A New Hope, The Silence of the Lambs:",Monty Python and the Holy Grail,Weekend at Bernie's,American in Paris,An,Let It Snow,A
+36,"Find a movie similar to Pulp Fiction, The Fugitive, The Shawshank Redemption, Dances with Wolves:",All Over the Guy,Forrest Gump,Elizabethtown,The Bride of Frankenstein,,B
+37,"Find a movie similar to Schindler's List, Jurassic Park, The Silence of the Lambs, Forrest Gump:",Batman,Alien Resurrection,A Tale of Two Cities,The Quiet American,,A
+38,"Find a movie similar to Pulp Fiction, The Shawshank Redemption, Aladdin, The Lion King:",Terminator 2 Judgment Day,The Next Three Days,Detachment,Ruby Sparks,,A
+39,"Find a movie similar to Aladdin, Terminator 2 Judgment Day, Batman, The Mask:",WarGames,King Kong,Foreign Correspondent,Pretty Woman,,D
+40,"Find a movie similar to Braveheart, Pulp Fiction, Saving Private Ryan, Gattaca:",Brave,Dredd,When Worlds Collide,Go,,D
+41,"Find a movie similar to Terminator 2 Judgment Day, Dead Man Walking, Braveheart, The Shawshank Redemption:",The Fugitive,Music and Lyrics,Deuce Bigalow Male Gigolo,Louis CK Oh My God,,A
+42,"Find a movie similar to Dances with Wolves, The Lion King, The Fugitive, The Shawshank Redemption:",Schindler's List,Day for Night,Man of the House,The Neon Demon,,A
+43,"Find a movie similar to The Usual Suspects, Interview with the Vampire The Vampire Chronicles, The Shawshank Redemption, Pulp Fiction:",Toy Soldiers,The Fugitive,The Wasp Woman,Baxter,,B
+44,"Find a movie similar to Stargate, The Fugitive, Pulp Fiction, Dances with Wolves:",Forrest Gump,Kevin Smith Too Fat For 40,Scorched,Stand and Deliver,,A
+45,"Find a movie similar to The Fugitive, The Shawshank Redemption, Beauty and the Beast, Schindler's List:",The Lion King,Urban Cowboy,Space Truckers,Universal Soldier Day of Reckoning,,A
+46,"Find a movie similar to Snow White and the Seven Dwarfs, The Secret Garden, Beauty and the Beast, The Lion King:",The Thing,Pinocchio,Nymphomaniac Volume I,Lights in the Dusk,,B
+47,"Find a movie similar to Raiders of the Lost Ark, The Matrix, Gattaca, Gladiator:",Swimming Pool,Maggie's Plan,The Fifth Element,For the Boys,,C
+48,"Find a movie similar to Batman, The Mask, The Lion King, Pretty Woman:",Los Angeles Plays Itself,Gintama The Final Chapter - Be Forever Yorozuya,Doctor Who Last Christmas,The Fugitive,,D
+49,"Find a movie similar to The Lion King, Dances with Wolves, Braveheart, Schindler's List:",Pickup on South Street,Poltergeist III,Crush,The Shawshank Redemption,,D
+50,"Find a movie similar to American Beauty, Austin Powers International Man of Mystery, Star Wars Episode V - The Empire Strikes Back, Mission Impossible:",Dragon Ball The Curse Of The Blood Rubies,Moonlight Mile,Hollywood Homicide,Star Wars Episode IV - A New Hope,,D
+51,"Find a movie similar to Rocky, Star Wars Episode IV - A New Hope, Toy Story, The Terminator:",Dracula Dead and Loving It,Independence Day,The Extraordinary Adventures of Adèle Blanc-Sec,The American President,,B
+52,"Find a movie similar to Braveheart, The Usual Suspects, Crimson Tide, The Fugitive:",Get Shorty,The Firm,Pillow Talk,Hairspray,,A
+53,"Find a movie similar to Interstellar, Monsters, Inc, Back to the Future, Inception:",My Fellow Americans,Shadow of the Vampire,Star Wars Episode VII - The Force Awakens,Psycho II,,C
+54,"Find a movie similar to Batman, Independence Day, Jurassic Park, Forrest Gump:",Pleasantville,The Mask,To Catch a Thief,Microwave Massacre,,B
+55,"Find a movie similar to Terminator 2 Judgment Day, Pulp Fiction, Aladdin, The Lion King:",Hawks and Sparrows,The Scent of Green Papaya,Schindler's List,Le Maître d'école,,C
+56,"Find a movie similar to Star Wars Episode V - The Empire Strikes Back, Independence Day, Terminator 2 Judgment Day, Star Wars Episode VI - Return of the Jedi:",High School,Pushing Tin,What Happened,Miss Simone,Back to the Future,E
+57,"Find a movie similar to Monty Python and the Holy Grail, The Silence of the Lambs, Star Wars Episode V - The Empire Strikes Back, Star Wars Episode IV - A New Hope:",Child's Play 3,Some Kind of Wonderful,Goodfellas,Chocolat,,C
+58,"Find a movie similar to Forrest Gump, Star Wars Episode VI - Return of the Jedi, Back to the Future, The Matrix:",Out of the Past,Sleeping with the Enemy,Independence Day,Ghost in the Shell Arise - Border 2 Ghost Whispers,,C
+59,"Find a movie similar to Pulp Fiction, The Dark Knight, The Silence of the Lambs, Forrest Gump:",The Da Vinci Code,Inception,Identity Thief,War for the Planet of the Apes,,B
+60,"Find a movie similar to The Usual Suspects, Braveheart, Pulp Fiction, Schindler's List:",The Cabinet of Dr Caligari,The Shawshank Redemption,Spider-Man 2,Taxi,,B
+61,"Find a movie similar to Braveheart, The Usual Suspects, The Shawshank Redemption, The Fugitive:",Boy,Swiss Family Robinson,And Then There Were None,Crimson Tide,,D
+62,"Find a movie similar to The Fugitive, Schindler's List, Braveheart, The Mask:",The Real McCoy,Batman,Master and Commander The Far Side of the World,Supercop,,B
+63,"Find a movie similar to Pretty Woman, Aladdin, The Lion King, Batman:",Terminator 2 Judgment Day,Everlasting Piece,An,Cloverfield,The Last Temptation of Christ,A
+64,"Find a movie similar to The Wizard of Oz, The Big Lebowski, Being John Malkovich, Run Lola Run:",Dragon Ball Z Dead Zone,Lightning in a Bottle,The Omega Man,Goodfellas,,D
+65,"Find a movie similar to The Terminator, Star Wars Episode VI - Return of the Jedi, Forrest Gump, Star Wars Episode IV - A New Hope:",Independence Day,The Human Condition III,The Lifeguard,Secretary,,A
+66,"Find a movie similar to Pulp Fiction, Forrest Gump, Inside Out, Edge of Tomorrow:",1984,Good Night,and Good Luck,Kiss of the Dragon,District 9,E
+67,"Find a movie similar to Braveheart, Pretty Woman, Apollo 13, Dances with Wolves:",Batman Assault on Arkham,The Shawshank Redemption,Pokémon Heroes,The Flamingo Kid,,B
+68,"Find a movie similar to Pulp Fiction, Forrest Gump, Terminator 2 Judgment Day, Braveheart:",Ruby & Quentin,Insidious Chapter 3,Fast Times at Ridgemont High,The Fugitive,,D
+69,"Find a movie similar to Pulp Fiction, Forrest Gump, The Fugitive, Braveheart:",Little Women,Dances with Wolves,Bring It On All or Nothing,Dead Alive,,B
+70,"Find a movie similar to American Beauty, Star Wars Episode IV - A New Hope, Star Wars Episode V - The Empire Strikes Back, Forrest Gump:",Cargo,Neon Bull,Jeffrey,The Silence of the Lambs,,D
+71,"Find a movie similar to Star Wars Episode IV - A New Hope, The Usual Suspects, Star Wars Episode V - The Empire Strikes Back, Pulp Fiction:",Fargo,Conan the Barbarian,Wisdom,The Crew,,A
+72,"Find a movie similar to Léon The Professional, The Matrix, Forrest Gump, Pulp Fiction:",Romper Stomper,Fame,Up,The Browning Version,,C
+73,"Find a movie similar to American History X, Requiem for a Dream, Raiders of the Lost Ark, The Sixth Sense:",Miss Meadows,Little Man,Goodfellas,You Can't Take It with You,,C
+74,"Find a movie similar to The Shawshank Redemption, Forrest Gump, Dances with Wolves, The Fugitive:",Pulp Fiction,The Girl on the Bridge,Radioland Murders,Father of the Bride,,A
+75,"Find a movie similar to Pulp Fiction, Dances with Wolves, The Fugitive, The Shawshank Redemption:",Baby Secret of the Lost Legend,The Care Bears Movie,The Fiendish Plot of Dr Fu Manchu,Forrest Gump,,D
+76,"Find a movie similar to Braveheart, Pretty Woman, Schindler's List, Apollo 13:",Bad Taste,My Big Fat Greek Wedding 2,The Santa Clause 2,Dances with Wolves,,D
+77,"Find a movie similar to The Lord of the Rings The Two Towers, Raiders of the Lost Ark, The Lord of the Rings The Fellowship of the Ring, Inception:",Ladybugs,American Ultra,Saving Private Ryan,Siam Sunset,,C
+78,"Find a movie similar to The Lion King, Toy Story, The Fugitive, Aladdin:",Experimenter,Highway 61,Terminator 2 Judgment Day,Short Circuit 2,,C
+79,"Find a movie similar to The Terminator, Wayne's World, Star Wars Episode V - The Empire Strikes Back, Indiana Jones and the Temple of Doom:",Nixon,The Pink Panther,The Pawnbroker,Raiders of the Lost Ark,,D
+80,"Find a movie similar to American Beauty, Goodfellas, The Silence of the Lambs, Star Wars Episode IV - A New Hope:",Christmas in Connecticut,The Princess Bride,Bill & Ted's Bogus Journey,Melvin and Howard,,B
+81,"Find a movie similar to The Sword in the Stone, Fantasia, The Jungle Book, Willy Wonka & the Chocolate Factory:",The Wizard of Oz,Captain Corelli's Mandolin,Timecrimes,Arlington Road,,A
+82,"Find a movie similar to Braveheart, Dances with Wolves, The Shawshank Redemption, The Usual Suspects:",3000 Miles to Graceland,Crimson Tide,Best Men,A Very Harold & Kumar 3D Christmas,,B
+83,"Find a movie similar to Interview with the Vampire The Vampire Chronicles, The Shawshank Redemption, Pulp Fiction, The Usual Suspects:",Caligula,Anger Management,The Fugitive,Mommy,,C
+84,"Find a movie similar to Pulp Fiction, The Shawshank Redemption, Dances with Wolves, Stargate:",The Fugitive,The Boss of It All,Barb Wire,Basic Instinct 2,,A
+85,"Find a movie similar to The Shawshank Redemption, Don Juan DeMarco, Mr Holland's Opus, Get Shorty:",Howards End,Long Night's Journey Into Day,Boccaccio '70,What's Eating Gilbert Grape,,D
+86,"Find a movie similar to Pulp Fiction, The Silence of the Lambs, Forrest Gump, Laputa Castle in the Sky:",Bone Tomahawk,The Brice Man,The Village,The Shawshank Redemption,,D
+87,"Find a movie similar to Independence Day, The Silence of the Lambs, Batman, Jurassic Park:",Forrest Gump,American Flyers,Shadows and Fog,Thunderbirds,,A
+88,"Find a movie similar to The Usual Suspects, The Shawshank Redemption, Get Shorty, Pulp Fiction:",Schindler's List,The Handmaiden,Davy Crockett,King of the Wild Frontier,Jet Li's Fearless,A
+89,"Find a movie similar to Star Wars Episode IV - A New Hope, Raiders of the Lost Ark, Mission Impossible, Star Wars Episode V - The Empire Strikes Back:",Indiana Jones and the Last Crusade,Stander,Too Late for Tears,Tower Heist,,A
+90,"Find a movie similar to Forrest Gump, The Fugitive, Independence Day, Fargo:",Comic-Con Episode IV A Fan's Hope,Harley Davidson and the Marlboro Man,Heat,Scratch,,C
+91,"Find a movie similar to The Fugitive, Braveheart, The Shawshank Redemption, Terminator 2 Judgment Day:",Dead Man Walking,World's Greatest Dad,The Bad and the Beautiful,Hood of Horror,,A
+92,"Find a movie similar to American Beauty, The Sixth Sense, Star Wars Episode V - The Empire Strikes Back, Star Wars Episode IV - A New Hope:",Death to Smoochy,The Artist,LA Confidential,New York,I Love You,C
+93,"Find a movie similar to Braveheart, Apollo 13, Schindler's List, Pulp Fiction:",Ruby Sparks,The Last Klezmer Leopold Kozlowski,His Life and Music,Circus,Dances with Wolves,E
+94,"Find a movie similar to The Shawshank Redemption, Apollo 13, Terminator 2 Judgment Day, Dead Man Walking:",Frankenstein Unbound,Jon Stewart Has Left the Building,Clear and Present Danger,Little Giants,,C
+95,"Find a movie similar to Jurassic Park, The Silence of the Lambs, Batman, American Beauty:",Night of the Living Dead,Forrest Gump,Ghost Ship,Revenge for Jolly!,,B
+96,"Find a movie similar to Batman, The Usual Suspects, The Silence of the Lambs, Jurassic Park:",The End of the Tour,Forrest Gump,Lust,Caution,Shelter,B
+97,"Find a movie similar to Pulp Fiction, Forrest Gump, Dances with Wolves, The Usual Suspects:",The Lawnmower Man,Virus,Jaws The Revenge,Get Shorty,,D
+98,"Find a movie similar to Dances with Wolves, Stargate, Pulp Fiction, The Shawshank Redemption:",The Towering Inferno,The Collector,Diabolique,The Fugitive,,D
+99,"Find a movie similar to Batman, Interview with the Vampire The Vampire Chronicles, The Mask, Pretty Woman:",Bright,Babe,Unicorn City,Zoom,,B
+100,"Find a movie similar to The Lion King, The Fugitive, Terminator 2 Judgment Day, Toy Story:",Black Mirror,Aladdin,Super Mario Bros,The Stunt Man,,B
+101,"Find a movie similar to Raiders of the Lost Ark, The Matrix, Pulp Fiction, Forrest Gump:",Trail of the Pink Panther,Inception,Firestarter,Joe's Apartment,,B
+102,"Find a movie similar to The Mask, Batman, Pretty Woman, The Fugitive:",Babe,What We Do in the Shadows,Game of Death,Eastern Promises,,A
+103,"Find a movie similar to Schindler's List, The Lord of the Rings The Two Towers, Inception, The Dark Knight:",Couples Retreat,Those Magnificent Men in Their Flying Machines,Star Wars Episode IV - A New Hope,Friday After Next,,C
+104,"Find a movie similar to X-Men, Planet of the Apes, Forrest Gump, Independence Day:",The Terminator,Remember Me,Train to Busan,Fast & Furious,,A
+105,"Find a movie similar to Inception, Inside Out, Edge of Tomorrow, Star Wars Episode VII - The Force Awakens:",Pulp Fiction,Dutch,Murder in the First,Mystery,Alaska,A
+106,"Find a movie similar to The Fugitive, Interview with the Vampire The Vampire Chronicles, The Mask, The Lion King:",Babe,The House,Saving Santa,Experimenter,,A
+107,"Find a movie similar to The Shawshank Redemption, The Fugitive, Forrest Gump, Pulp Fiction:",I Know Who Killed Me,Oceans,Dances with Wolves,It Can't Be!,,C
+108,"Find a movie similar to Apollo 13, Batman, Dances with Wolves, Braveheart:",Schindler's List,Crimes and Misdemeanors,King Kong,Gorillas in the Mist,,A
+109,"Find a movie similar to Pulp Fiction, Léon The Professional, Kill Bill Vol 2, Requiem for a Dream:",Pushing Hands,Mortal Kombat The Journey Begins,Sin Nombre,The Godfather,,D
+110,"Find a movie similar to The Fugitive, Schindler's List, Fargo, Braveheart:",Dances with Wolves,Arachnophobia,The Good Son,Liam,,A
+111,"Find a movie similar to Dances with Wolves, Mr Holland's Opus, Stargate, Get Shorty:",Ride with the Devil,It Runs in the Family,The Usual Suspects,Anomalisa,,C
+112,"Find a movie similar to Braveheart, Forrest Gump, The Silence of the Lambs, The Fugitive:",Cannibal Holocaust,Seven,Bride & Prejudice,Night at the Museum Secret of the Tomb,,B
+113,"Find a movie similar to American Beauty, Back to the Future, Star Wars Episode IV - A New Hope, Star Wars Episode V - The Empire Strikes Back:",Jon Stewart Has Left the Building,Hud,The Mummy Tomb of the Dragon Emperor,The Terminator,,D
+114,"Find a movie similar to One Flew Over the Cuckoo's Nest, Star Wars Episode V - The Empire Strikes Back, Léon The Professional, Reservoir Dogs:",Thumbelina,Hereafter,The Thinning,Raiders of the Lost Ark,,D
+115,"Find a movie similar to Don Juan DeMarco, Mr Holland's Opus, What's Eating Gilbert Grape, Pulp Fiction:",Get Shorty,Kolya,Death Wish 2,Gold Diggers of 1933,,A
+116,"Find a movie similar to Get Shorty, What's Eating Gilbert Grape, The Fugitive, The Shawshank Redemption:",Unstrung Heroes,Vampire in Brooklyn,Braveheart,Borat Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan,,C
+117,"Find a movie similar to Schindler's List, The Shawshank Redemption, Terminator 2 Judgment Day, Aladdin:",The Double Life of Veronique,Bridget Jones's Diary,The Lion King,Cujo,,C
+118,"Find a movie similar to Braveheart, The Usual Suspects, Dances with Wolves, Pulp Fiction:",Metropolis,Nadja,Marty,Toy Story,,D
+119,"Find a movie similar to Aladdin, Toy Story, The Lion King, Pulp Fiction:",Being Elmo A Puppeteer's Journey,Far From Home The Adventures of Yellow Dog,Terminator 2 Judgment Day,RoboGeisha,,C
+120,"Find a movie similar to The Fugitive, Fargo, Groundhog Day, The Princess Bride:",John Q,Raiders of the Lost Ark,No Man's Land,The Morning After,,B
+121,"Find a movie similar to The Terminator, Toy Story, The Sixth Sense, Star Wars Episode VI - Return of the Jedi:",Indecent Proposal,Star Wars Episode V - The Empire Strikes Back,Gray's Anatomy,The Girl Next Door,,B
+122,"Find a movie similar to Dances with Wolves, The Shawshank Redemption, Stargate, Tombstone:",The Fugitive,Frankenstein Unbound,Easter Parade,One Crazy Summer,,A
+123,"Find a movie similar to Terminator 2 Judgment Day, The Lion King, Batman, Aladdin:",Killing Me Softly,A King in New York,The Proposition,Pretty Woman,,D
+124,"Find a movie similar to Star Wars Episode V - The Empire Strikes Back, The Usual Suspects, Star Wars Episode IV - A New Hope, The Lord of the Rings The Return of the King:",LA Confidential,PS I Love You,Boyz N the Hood,Let It Ride,,A
+125,"Find a movie similar to Stargate, The Shawshank Redemption, Dances with Wolves, The Fugitive:",Angel at My Table,An,Beauty of the Day,Pulp Fiction,The Omega Man,D
+126,"Find a movie similar to The Matrix, Star Wars Episode V - The Empire Strikes Back, Star Wars Episode IV - A New Hope, Forrest Gump:",Pulp Fiction,Da geht noch was!,Hudson Hawk,The Brothers Grimm,,A
+127,"Find a movie similar to The Shawshank Redemption, Schindler's List, Terminator 2 Judgment Day, Aladdin:",Nina's Heavenly Delights,American Pie Presents The Book of Love,The Recruit,The Lion King,,D
+128,"Find a movie similar to Goodfellas, The Big Lebowski, Raiders of the Lost Ark, The Silence of the Lambs:",Doctor Dolittle,Pi,House Party 3,Star Wars Episode IV - A New Hope,,D
+129,"Find a movie similar to The Green Mile, The Matrix, Saving Private Ryan, Gladiator:",49 Up,Gattaca,Alex and Emma,The Terrorist,,B
+130,"Find a movie similar to The Fifth Element, Gladiator, Gattaca, The Matrix:",Birdman of Alcatraz,Raiders of the Lost Ark,Le Samouraï,Imagine That,,B
+131,"Find a movie similar to Star Wars Episode IV - A New Hope, Star Wars Episode V - The Empire Strikes Back, The Silence of the Lambs, The Princess Bride:",The Valet,Love Potion #9,The Twilight Samurai,Fargo,,D
+132,"Find a movie similar to Austin Powers International Man of Mystery, Star Wars Episode IV - A New Hope, Star Wars Episode V - The Empire Strikes Back, Mission Impossible:",The Impostors,Virunga,Self-criticism of a Bourgeois Dog,American Beauty,,D
+133,"Find a movie similar to Dances with Wolves, The Fugitive, The Shawshank Redemption, Braveheart:",Hostage,Behind Enemy Lines,Get Shorty,Alice,,C
+134,"Find a movie similar to Spirited Away, Seven Samurai, LA Confidential, Dr Strangelove or How I Learned to Stop Worrying and Love the Bomb:",The Usual Suspects,Return to the Blue Lagoon,Practical Magic,Scrooge,,A
+135,"Find a movie similar to Braveheart, Schindler's List, The Silence of the Lambs, Jurassic Park:",Independence Day,Broken,Toy Story 2,Men of Honor,,A
+136,"Find a movie similar to Apollo 13, Jurassic Park, The Silence of the Lambs, Forrest Gump:",Somewhere,Batman,The Hot Chick,The Apartment,,B
+137,"Find a movie similar to Saving Private Ryan, Inception, Raiders of the Lost Ark, The Matrix:",The Emperor and the Assassin,Gladiator,Tin Cup,Alex and Emma,,B
+138,"Find a movie similar to One Flew Over the Cuckoo's Nest, Goodfellas, Rear Window, The Professional:",A Night to Remember,The Swan Princess,Kinsey,Léon The Professional,,D
+139,"Find a movie similar to The Usual Suspects, Go, Pulp Fiction, Star Wars Episode VI - Return of the Jedi:",The Sign of Four,The Hunt for Red October,Auto Focus,Marauders,,B
+140,"Find a movie similar to Braveheart, The Fugitive, The Mask, Schindler's List:",Interstate 60,Primary Colors,Careful What You Wish For,The Shawshank Redemption,,D
+141,"Find a movie similar to The Fugitive, Crimson Tide, Braveheart, The Shawshank Redemption:",Pulp Fiction,Autumn Marathon,I'm Not There,The Limey,,A
+142,"Find a movie similar to Forrest Gump, The Silence of the Lambs, The Fugitive, Jurassic Park:",The Burrowers,Children of the Corn III,Hood of Horror,Braveheart,,D
+143,"Find a movie similar to Dances with Wolves, Pulp Fiction, Schindler's List, The Shawshank Redemption:",Sound of the Mountain,Braveheart,Ruby Red,Candleshoe,,B
+144,"Find a movie similar to The Fugitive, Monty Python and the Holy Grail, Goodfellas, Star Wars Episode IV - A New Hope:",I,Robot,Cookie's Fortune,Being John Malkovich,Behind Enemy Lines,D
+145,"Find a movie similar to Clear and Present Danger, In the Line of Fire, The Fugitive, Braveheart:",Three to Tango,Choke,Angel at My Table,An,The Shawshank Redemption,E
+146,"Find a movie similar to Forrest Gump, The Shawshank Redemption, Pulp Fiction, Dances with Wolves:",Women in Trouble,The Fugitive,Night at the Museum Secret of the Tomb,While You Were Sleeping,,B
+147,"Find a movie similar to Star Wars Episode V - The Empire Strikes Back, The Sixth Sense, Back to the Future, The Terminator:",Family Guy Presents It's a Trap,Charlie and the Chocolate Factory,Futurama Bender's Game,Toy Story,,D
+148,"Find a movie similar to Batman, Forrest Gump, Jurassic Park, The Usual Suspects:",Apollo 13,Battle Beyond the Stars,Great Balls of Fire!,The Atomic Submarine,,A
+149,"Find a movie similar to Star Wars Episode V - The Empire Strikes Back, Star Wars Episode IV - A New Hope, Star Wars Episode VI - Return of the Jedi, The Matrix:",Baby's Day Out,Les Misérables,Terminator 2 Judgment Day,Dudley Do-Right,,C
+150,"Find a movie similar to Braveheart, Pulp Fiction, Schindler's List, The Usual Suspects:",Kazaam,Eichmann,Children of the Night,Apollo 13,,D
+151,"Find a movie similar to Pretty Woman, Schindler's List, The Shawshank Redemption, Apollo 13:",In July,Black Snake Moan,Dances with Wolves,Heartbreaker,,C
+152,"Find a movie similar to Braveheart, The Fugitive, The Shawshank Redemption, The Usual Suspects:",Pale Rider,Runaway Brain,Crimson Tide,Super Mario Bros,,C
+153,"Find a movie similar to American Beauty, Dr Strangelove or How I Learned to Stop Worrying and Love the Bomb, The Lord of the Rings The Two Towers, Seven Samurai:",Latter Days,Dirty Dancing Havana Nights,The Silence of the Lambs,The Devil and Daniel Johnston,,C
+154,"Find a movie similar to Seven, Star Wars Episode IV - A New Hope, Star Wars Episode V - The Empire Strikes Back, American Beauty:",Wadjda,Gray's Anatomy,Rear Window,The Shaggy DA,,C
+155,"Find a movie similar to The Usual Suspects, Pulp Fiction, Goodfellas, The Godfather:",Big Daddy,Mogambo,Kiss Kiss Bang Bang,Monty Python and the Holy Grail,,D
+156,"Find a movie similar to The Matrix, Inception, Pulp Fiction, Forrest Gump:",Raiders of the Lost Ark,Changing Lanes,The Ewok Adventure,High Noon,,A
+157,"Find a movie similar to Raiders of the Lost Ark, Groundhog Day, Fargo, The Silence of the Lambs:",Tape,Gettysburg,The Princess Bride,Stardust,,C
+158,"Find a movie similar to Dances with Wolves, Get Shorty, The Fugitive, Braveheart:",Barbershop 2 Back in Business,Cool Runnings,To Be or Not to Be,The Shawshank Redemption,,D
+159,"Find a movie similar to Goodfellas, Star Wars Episode V - The Empire Strikes Back, The Silence of the Lambs, Raiders of the Lost Ark:",Ip Man 3,Star Wars Episode IV - A New Hope,The Wedding Ringer,Delivery Man,,B
+160,"Find a movie similar to Gladiator, Raiders of the Lost Ark, Schindler's List, Saving Private Ryan:",The Matrix,Scorpio,Oh,Hello On Broadway,The Prophecy,A
+161,"Find a movie similar to The Fugitive, Terminator 2 Judgment Day, Aladdin, Toy Story:",The Edge of Love,Untitled Spider-Man Reboot,The Lion King,Daddy Day Camp,,C
+162,"Find a movie similar to Raiders of the Lost Ark, The Matrix, Star Wars Episode IV - A New Hope, Inception:",Attack of the Killer Tomatoes!,Up,Ernest Rides Again,White Christmas,,B
+163,"Find a movie similar to Minority Report, Shrek, Catch Me If You Can, Aladdin:",Monsters,Inc,Children of the Night,The Incredible Shrinking Man,Town & Country,o
+164,"Find a movie similar to Gladiator, Saving Private Ryan, The Matrix, Inception:",Bad Boy Bubby,Raiders of the Lost Ark,Whatever Works,Porco Rosso,,B
+165,"Find a movie similar to Forrest Gump, The Matrix, Pulp Fiction, Inception:",Like Crazy,Win Win,Morvern Callar,Independence Day,,D
+166,"Find a movie similar to Aladdin, The Lion King, Terminator 2 Judgment Day, Batman:",The Mummy,Narc,Fright Night,Pretty Woman,,D
+167,"Find a movie similar to Apollo 13, The Shawshank Redemption, Braveheart, Dances with Wolves:",Beneath the Planet of the Apes,Tokyo Decadence,Batman,I Sell the Dead,,C
+168,"Find a movie similar to Fight Club, The Shawshank Redemption, Kill Bill Vol 1, Kill Bill Vol 2:",Sorority House Massacre,Evolution,Memento,Scooby-Doo Goes Hollywood,,C
+169,"Find a movie similar to Dances with Wolves, The Shawshank Redemption, The Fugitive, Stargate:",Air Force One,Clear and Present Danger,Bone Tomahawk,Mambo Italiano,,B
+170,"Find a movie similar to Apollo 13, Pulp Fiction, Pretty Woman, Braveheart:",In Good Company,A Summer's Tale,Phenomena,The Shawshank Redemption,,D
+171,"Find a movie similar to Fargo, Schindler's List, The Usual Suspects, Pulp Fiction:",The Shawshank Redemption,The Sandpiper,Material Girls,Life as We Know It,,A
+172,"Find a movie similar to The Shawshank Redemption, Forrest Gump, Pulp Fiction, Braveheart:",A Woman Under the Influence,It's the Great Pumpkin,Charlie Brown,The House,Dances with Wolves,E
+173,"Find a movie similar to Romancing the Stone, American Beauty, The Princess Bride, Star Wars Episode IV - A New Hope:",Save the Last Dance,Passion,Being John Malkovich,Trial and Error,,C
+174,"Find a movie similar to Jurassic Park, Independence Day, Forrest Gump, Batman:",The Firm,Roger Dodger,Innocent Man,An,The Silence of the Lambs,E
+175,"Find a movie similar to Forrest Gump, The Silence of the Lambs, Fargo, Seven:",Schindler's List,The Diary of Anne Frank,Cleanskin,Boy,,A
+176,"Find a movie similar to Star Wars Episode VI - Return of the Jedi, Back to the Future, Toy Story, The Terminator:",Europa,'night Mother,Star Wars Episode IV - A New Hope,Of Human Bondage,,C
+177,"Find a movie similar to The Usual Suspects, Schindler's List, Braveheart, Dances with Wolves:",The Way of the Gun,Bully,Fiddler on the Roof,Batman,,D
+178,"Find a movie similar to Get Shorty, Mr Holland's Opus, Stargate, Dances with Wolves:",The Prime Gig,9 12 Weeks,The Usual Suspects,It Happened One Night,,C
+179,"Find a movie similar to American Beauty, Pi, X-Men, The Godfather:",Police Academy Mission to Moscow,The Matrix,Carnival of Souls,SupermanDoomsday,,B
+180,"Find a movie similar to Star Wars Episode V - The Empire Strikes Back, The Lord of the Rings The Fellowship of the Ring, American Beauty, Forrest Gump:",Upside Down The Creation Records Story,The Adventures of Sherlock Holmes and Doctor Watson,Waking Life,The Lord of the Rings The Two Towers,,D
+181,"Find a movie similar to Pulp Fiction, Schindler's List, Apollo 13, Dances with Wolves:",Iron Eagle IV,The Shawshank Redemption,Knockin' on Heaven's Door,Aguirre The Wrath of God,,B
+182,"Find a movie similar to Dances with Wolves, The Usual Suspects, Toy Story, Braveheart:",Ashby,Groove,The Dinner Game,Schindler's List,,D
+183,"Find a movie similar to The Hunt for Red October, The Usual Suspects, The Sixth Sense, The Fugitive:",The Opposite Sex,Mr Holmes,Pulp Fiction,The Letter,,C
+184,"Find a movie similar to Dances with Wolves, Crimson Tide, Braveheart, The Fugitive:",Rachel Getting Married,Howard the Duck,The Shawshank Redemption,The Post,,C
+185,"Find a movie similar to Dumb & Dumber, Jurassic Park, Schindler's List, Forrest Gump:",The Counterfeiters,Gone with the Wind,Braveheart,Pitfall,,C
+186,"Find a movie similar to The Blues Brothers, The Usual Suspects, Forrest Gump, The Silence of the Lambs:",Independence Day,A Place in the Sun,Son in Law,Hot Tub Time Machine,,A
+187,"Find a movie similar to The Usual Suspects, The Matrix, The Godfather, Pi:",Little Miss Marker,Pulp Fiction,What Love Is,The Spy Next Door,,B
+188,"Find a movie similar to Star Wars Episode IV - A New Hope, Superman, The Terminator, American Beauty:",Opera,Austin Powers International Man of Mystery,Highlander The Search for Vengeance,Supergirl,,B
+189,"Find a movie similar to Terminator 2 Judgment Day, Aladdin, The Shawshank Redemption, The Lion King:",Iron Man & Hulk Heroes United,Schindler's List,Sherlock Jr,Lilya 4-Ever,,B
+190,"Find a movie similar to Inception, Gladiator, The Matrix, Saving Private Ryan:",Robots,King of Comedy,Raiders of the Lost Ark,Won't You Be My Neighbor,,C
+191,"Find a movie similar to Catch Me If You Can, Shrek, Monsters, Inc, The Lion King:",Aladdin,Enter the Void,Contraband,No Small Affair,,A
+192,"Find a movie similar to Pulp Fiction, Raiders of the Lost Ark, The Matrix, Inception:",Hector and the Search for Happiness,The Quiet American,The Shawshank Redemption,Falling Down,,C
+193,"Find a movie similar to Crimson Tide, The Fugitive, The Usual Suspects, Dances with Wolves:",Bandidas,Braveheart,Too Many Cooks,Bad Santa,,B
+194,"Find a movie similar to Back to the Future, Raiders of the Lost Ark, The Matrix, The Terminator:",What's Up,Tiger Lily,Cave of Forgotten Dreams,Batman,Quatermass and the Pit,D
+195,"Find a movie similar to The Mask, Aladdin, The Lion King, Pretty Woman:",Batman,The Deadly Bees,Hot Girls Wanted,Mermaids,,A
+196,"Find a movie similar to Batman, Independence Day, Forrest Gump, The Silence of the Lambs:",Skyline,Jurassic Park,Dragon Ball Z Broly - The Legendary Super Saiyan,One Fine Day,,B
+197,"Find a movie similar to Jurassic Park, The Silence of the Lambs, Dances with Wolves, Seven:",Forrest Gump,Righteous Kill,Cheech and Chong's Up in Smoke,Blood The Last Vampire,,A
+198,"Find a movie similar to The Shawshank Redemption, Pulp Fiction, Dances with Wolves, Schindler's List:",The Way South,Er ist wieder da,Braveheart,Miss Nobody,,C
+199,"Find a movie similar to Pulp Fiction, Forrest Gump, The Fugitive, The Usual Suspects:",Wisdom,Lost and Delirious,People I Know,Braveheart,,D
+200,"Find a movie similar to Back to the Future, The Lord of the Rings The Fellowship of the Ring, Star Wars Episode VI - Return of the Jedi, Forrest Gump:",The Silence of the Lambs,Making the Grade,The Boy and the Beast,Vicky Cristina Barcelona,,A
+201,"Find a movie similar to The Silence of the Lambs, Forrest Gump, Die Hard With a Vengeance, Jurassic Park:",Shine,Banana Joe,Max Keeble's Big Move,Independence Day,,D
+202,"Find a movie similar to Forrest Gump, The Shawshank Redemption, The Matrix, Star Wars Episode I - The Phantom Menace:",Fight Club,I Shot Jesse James,Out Cold,Blackrock,,A
+203,"Find a movie similar to Get Shorty, The Shawshank Redemption, The Fugitive, Mr Holland's Opus:",Joe Dirt 2 Beautiful Loser,Braveheart,Where Eagles Dare,Polyester,,B
+204,"Find a movie similar to Pulp Fiction, Dances with Wolves, Schindler's List, Braveheart:",Exte Hair Extensions,The Shawshank Redemption,Hot Lead and Cold Feet,The Man Who Shot Liberty Valance,,B
+205,"Find a movie similar to The Shawshank Redemption, Pulp Fiction, The Fugitive, Stargate:",Guinevere,White Frog,Dances with Wolves,Benny & Joon,,C
+206,"Find a movie similar to Mission Impossible, Back to the Future, Star Wars Episode VI - Return of the Jedi, X-Men:",My Neighbor Totoro,Hang 'Em High,They Came Together,Toy Story,,D
+207,"Find a movie similar to American Beauty, Star Wars Episode V - The Empire Strikes Back, Raiders of the Lost Ark, Star Wars Episode IV - A New Hope:",Colombiana,Snow Falling on Cedars,Groundhog Day,Santa's Little Helper,,C
+208,"Find a movie similar to The Lion King, Terminator 2 Judgment Day, Schindler's List, The Shawshank Redemption:",I'll Be Home For Christmas,Lilya 4-Ever,A Night in the Life of Jimmy Reardon,Aladdin,,D
+209,"Find a movie similar to The Silence of the Lambs, Schindler's List, The Usual Suspects, Seven:",Blame It on the Bellboy,Forrest Gump,Barcelona,Frank,,B
+210,"Find a movie similar to The Sixth Sense, One Flew Over the Cuckoo's Nest, Wallace & Gromit A Close Shave, The Maltese Falcon:",Feast,In the Loop,Return with Honor,Reservoir Dogs,,D
+211,"Find a movie similar to Star Wars Episode I - The Phantom Menace, The Sixth Sense, Independence Day, Fight Club:",Terminator 2 Judgment Day,A Field in England,Green Street Hooligans,Guardians of the Galaxy 2,,A
+212,"Find a movie similar to The Fugitive, Dances with Wolves, Forrest Gump, The Shawshank Redemption:",A Special Day,David Cross Making America Great Again,Happy Go Lovely,Pulp Fiction,,D
+213,"Find a movie similar to Raiders of the Lost Ark, The Matrix, Léon The Professional, Star Wars Episode V - The Empire Strikes Back:",The Meyerowitz Stories,Saw,Star Wars Episode IV - A New Hope,Josie and the Pussycats,,C
+214,"Find a movie similar to Braveheart, Get Shorty, The Shawshank Redemption, Pulp Fiction:",The Fugitive,Ready to Rumble,Thoroughly Modern Millie,Ninja Shadow of a Tear,,A
+215,"Find a movie similar to The Shawshank Redemption, The Matrix, Fight Club, Star Wars Episode I - The Phantom Menace:",THX 1138,Iron Eagle II,Chocolat,Forrest Gump,,D
+216,"Find a movie similar to Batman, The Lion King, Pretty Woman, Terminator 2 Judgment Day:",Drag Me to Hell,The Old Man and the Sea,The Mask,'night Mother,,C
+217,"Find a movie similar to Dances with Wolves, The Shawshank Redemption, Braveheart, The Fugitive:",The Village,Beverly Hills Cop III,Bring Me the Head of Alfredo Garcia,Pulp Fiction,,D
+218,"Find a movie similar to Dances with Wolves, The Shawshank Redemption, The Fugitive, Pulp Fiction:",The City of Women,Avengers Infinity War - Part I,Forrest Gump,The Man Who Knew Too Much,,C
+219,"Find a movie similar to Men in Black, The Fugitive, Raiders of the Lost Ark, Fargo:",The Silence of the Lambs,College,Music Box,Get Smart,,A
+220,"Find a movie similar to Dances with Wolves, Aladdin, Braveheart, Dead Man Walking:",The Fugitive,Tristram Shandy A Cock and Bull Story,Barefoot in the Park,Dante's Inferno An Animated Epic,,A
+221,"Find a movie similar to The Usual Suspects, Star Wars Episode V - The Empire Strikes Back, Pulp Fiction, Star Wars Episode IV - A New Hope:",Twelve Monkeys,She's Out of My League,The Lost Room,High Crimes,,A
+222,"Find a movie similar to Forrest Gump, The Silence of the Lambs, The Usual Suspects, The Blues Brothers:",From Hell,The Insider,Independence Day,Bride of Chucky,,C
+223,"Find a movie similar to Blade Runner, Reservoir Dogs, Léon The Professional, Rear Window:",Pickup on South Street,One Flew Over the Cuckoo's Nest,Home,Trumbo,,B
+224,"Find a movie similar to Jurassic Park, Forrest Gump, Independence Day, Mission Impossible:",The Godfather Trilogy 1972-1990,Star Wars Episode VI - Return of the Jedi,Halloween II,Alice Through the Looking Glass,,B
+225,"Find a movie similar to The Godfather, Twelve Monkeys, Pi, Monty Python and the Holy Grail:",Pulp Fiction,The Machinist,Yes Man,Perfect Sense,,A
+226,"Find a movie similar to Star Wars Episode IV - A New Hope, The Fugitive, Being John Malkovich, Mission Impossible:",Pet Sematary II,Star Wars Episode V - The Empire Strikes Back,Winnie Pooh,Ken Park,,B
+227,"Find a movie similar to The Lion King, Monsters, Inc, Catch Me If You Can, Minority Report:",Shrek,The Natural,Strike!,Gentlemen Broncos,,A
+228,"Find a movie similar to Interview with the Vampire The Vampire Chronicles, The Lion King, Braveheart, The Shawshank Redemption:",Dances with Wolves,The Killer Shrews,Uptown Girls,The Den,,A
+229,"Find a movie similar to Pulp Fiction, Braveheart, The Fugitive, Get Shorty:",I Do How to Get Married and Stay Single,Forrest Gump,The Crossing Guard,Jimmy Carr Making People Laugh,,B
+230,"Find a movie similar to The Matrix, Seven, The Usual Suspects, Reservoir Dogs:",The Godfather Part II,The Sting,Trash Humpers,The Seventh Sign,,A
+231,"Find a movie similar to Pulp Fiction, Stargate, The Fugitive, The Shawshank Redemption:",The Astronaut Farmer,It's Pat,One-Eyed Jacks,Dances with Wolves,,D
+232,"Find a movie similar to Dances with Wolves, The Shawshank Redemption, Schindler's List, Pulp Fiction:",Braveheart,The Pretty One,Elsa & Fred,The Sound of Music,,A
+233,"Find a movie similar to Mr Holland's Opus, What's Eating Gilbert Grape, Braveheart, Don Juan DeMarco:",Kevin Hart I'm a Grown Little Man,IQ,Pulp Fiction,Penguins of Madagascar,,C
+234,"Find a movie similar to Forrest Gump, Star Wars Episode IV - A New Hope, Back to the Future, Star Wars Episode VI - Return of the Jedi:",The Apple,Independence Day,Boiling Point,Car Wash,,B
+235,"Find a movie similar to The Shawshank Redemption, Saving Private Ryan, Braveheart, The Matrix:",Dracula 2000,1492 Conquest of Paradise,Schindler's List,Auto Focus,,C
+236,"Find a movie similar to Batman, The Silence of the Lambs, Jurassic Park, Independence Day:",The Sessions,The Girl Who Kicked the Hornet's Nest,Forrest Gump,Before Night Falls,,C
+237,"Find a movie similar to The Shawshank Redemption, Pulp Fiction, Crimson Tide, Forrest Gump:",Braveheart,Ripley's Game,Spanglish,Meet the Feebles,,A
+238,"Find a movie similar to Apollo 13, Schindler's List, Pretty Woman, Braveheart:",The Fly,Metropia,Ciao,Professore!,Dances with Wolves,E
+239,"Find a movie similar to Aladdin, Snow White and the Seven Dwarfs, Babe, Pinocchio:",Valentine's Day,The Double,The Secret Garden,All Is Lost,,C
+240,"Find a movie similar to Pulp Fiction, The Fugitive, The Shawshank Redemption, Dances with Wolves:",Babylon 5 A Call to Arms,Letters from Iwo Jima,Forrest Gump,Saint Ralph,,C
+241,"Find a movie similar to Schindler's List, The Fugitive, Heat, Braveheart:",Wild Orchid,The Silence of the Lambs,Hello Ladies The Movie,Star Trek,,B
+242,"Find a movie similar to Independence Day, Star Wars Episode V - The Empire Strikes Back, American Beauty, Star Wars Episode VI - Return of the Jedi:",Frankenweenie,Ivan Vasilievich Back to the Future,We Bought a Zoo,Star Wars Episode IV - A New Hope,,D
+243,"Find a movie similar to Dances with Wolves, Terminator 2 Judgment Day, The Shawshank Redemption, Braveheart:",The Hunting Party,Schindler's List,Baraka,Reality Bites,,B
+244,"Find a movie similar to The Shawshank Redemption, Pulp Fiction, The Fugitive, Fargo:",Blitz,Only Lovers Left Alive,The Chase,The Usual Suspects,,D
+245,"Find a movie similar to The Usual Suspects, Schindler's List, Fargo, The Shawshank Redemption:",With a Friend Like Harry,Crash,The Stepford Wives,Pulp Fiction,,D
+246,"Find a movie similar to The Fugitive, Willy Wonka & the Chocolate Factory, So I Married an Axe Murderer, Batman:",Seven,Meet the Spartans,Leprechaun 4 In Space,Harlem Nights,,A
+247,"Find a movie similar to Pulp Fiction, Fargo, Twelve Monkeys, Monty Python and the Holy Grail:",Cloud Atlas,Friday Night Lights,The Godfather,Pride and Prejudice,,C
+248,"Find a movie similar to Dances with Wolves, The Shawshank Redemption, Apollo 13, Schindler's List:",Braveheart,Popeye,House II The Second Story,In China They Eat Dogs,,A
+249,"Find a movie similar to Schindler's List, The Shawshank Redemption, Terminator 2 Judgment Day, The Lion King:",The Red Turtle,Tarzan,Nothing But Trouble,Aladdin,,D

@@ -1,0 +1,5 @@
+﻿question,A,B,C,D,answer,explanation
+"On March 29, 2015, the closing price of Huaxia SSE 50ETF Fund was ¥2.649, and the closing price of the SSE 50ETF call option with an expiration date of April and an exercise price of ¥2.250 was ¥0.406. Then, the intrinsic value or exercise value of the option is ____.",1.844,0.399,2.243,0.406,B,0.399
+The pricing theory of modern financial derivative securities is not based on which of the following assumptions_____.,There is no friction in the market,There is no risk of default by market participants,The market is perfectly competitive,There are risk-free arbitrage opportunities in the market,D,There are risk-free arbitrage opportunities in the market
+The main types of exotic options do not include ____.,Tri-value option,Wrap option,Barrier option,Asian option,A,Tri-value Option
+The correct description of convertible bonds is ____.,Same as ordinary bonds,A combination of ordinary bonds and futures,The right to convert belongs to the issuer,A combination of ordinary bonds and options,D,It is a combination of ordinary bonds and options

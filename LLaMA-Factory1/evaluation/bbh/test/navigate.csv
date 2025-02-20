@@ -1,0 +1,251 @@
+id,question,A,B,answer
+0,"If you follow these instructions, do you return to the starting point? Always face forward. Take 1 step backward. Take 9 steps left. Take 2 steps backward. Take 6 steps forward. Take 4 steps forward. Take 4 steps backward. Take 3 steps right.",Yes,No,B
+1,"If you follow these instructions, do you return to the starting point? Always face forward. Take 10 steps left. Take 10 steps forward. Take 7 steps forward. Take 2 steps forward.",Yes,No,B
+2,"If you follow these instructions, do you return to the starting point? Take 1 step. Take 10 steps. Take 4 steps. Take 1 step. Take 10 steps. Turn right. Turn around.",Yes,No,B
+3,"If you follow these instructions, do you return to the starting point? Always face forward. Take 1 step right. Take 3 steps left. Take 2 steps right.",Yes,No,A
+4,"If you follow these instructions, do you return to the starting point? Always face forward. Take 10 steps backward. Take 7 steps backward. Take 8 steps right. Take 6 steps right. Take 3 steps left.",Yes,No,B
+5,"If you follow these instructions, do you return to the starting point? Take 8 steps. Turn around. Take 8 steps.",Yes,No,A
+6,"If you follow these instructions, do you return to the starting point? Always face forward. Take 6 steps right. Take 1 step forward. Take 10 steps left. Take 8 steps forward. Take 9 steps backward. Take 4 steps right.",Yes,No,A
+7,"If you follow these instructions, do you return to the starting point? Always face forward. Take 6 steps forward. Take 7 steps backward. Take 7 steps backward. Take 8 steps forward.",Yes,No,A
+8,"If you follow these instructions, do you return to the starting point? Take 5 steps. Take 4 steps. Take 3 steps.",Yes,No,B
+9,"If you follow these instructions, do you return to the starting point? Always face forward. Take 8 steps backward. Take 9 steps forward. Take 4 steps forward. Take 2 steps left. Take 4 steps forward. Take 6 steps forward. Take 10 steps backward. Take 8 steps right. Take 1 step left.",Yes,No,B
+10,"If you follow these instructions, do you return to the starting point? Take 8 steps. Take 5 steps. Take 5 steps. Take 10 steps. Take 5 steps.",Yes,No,B
+11,"If you follow these instructions, do you return to the starting point? Take 3 steps. Take 6 steps. Take 8 steps. Take 5 steps. Take 6 steps. Take 2 steps. Take 1 step. Take 2 steps.",Yes,No,B
+12,"If you follow these instructions, do you return to the starting point? Take 3 steps. Turn around. Take 3 steps. Turn right.",Yes,No,A
+13,"If you follow these instructions, do you return to the starting point? Always face forward. Take 5 steps backward. Take 2 steps left. Take 5 steps right. Take 3 steps left. Take 5 steps backward. Take 10 steps forward.",Yes,No,A
+14,"If you follow these instructions, do you return to the starting point? Always face forward. Take 3 steps left. Take 10 steps right. Take 7 steps left.",Yes,No,A
+15,"If you follow these instructions, do you return to the starting point? Turn left. Turn right. Turn around. Turn left. Take 4 steps. Turn left. Turn around. Take 3 steps.",Yes,No,B
+16,"If you follow these instructions, do you return to the starting point? Always face forward. Take 9 steps forward. Take 1 step backward. Take 4 steps backward. Take 4 steps backward.",Yes,No,A
+17,"If you follow these instructions, do you return to the starting point? Take 3 steps. Turn around. Take 5 steps. Turn right. Turn right. Take 1 step. Take 1 step.",Yes,No,A
+18,"If you follow these instructions, do you return to the starting point? Take 3 steps. Take 6 steps. Take 9 steps.",Yes,No,B
+19,"If you follow these instructions, do you return to the starting point? Take 8 steps. Turn left. Take 9 steps. Take 7 steps. Turn around.",Yes,No,B
+20,"If you follow these instructions, do you return to the starting point? Always face forward. Take 6 steps backward. Take 6 steps forward. Take 6 steps right.",Yes,No,B
+21,"If you follow these instructions, do you return to the starting point? Take 4 steps. Take 2 steps. Turn around. Take 6 steps.",Yes,No,A
+22,"If you follow these instructions, do you return to the starting point? Always face forward. Take 1 step forward. Take 10 steps left. Take 4 steps forward.",Yes,No,B
+23,"If you follow these instructions, do you return to the starting point? Take 7 steps. Turn right. Turn right. Take 6 steps. Turn right.",Yes,No,B
+24,"If you follow these instructions, do you return to the starting point? Always face forward. Take 2 steps backward. Take 8 steps backward.",Yes,No,B
+25,"If you follow these instructions, do you return to the starting point? Take 9 steps. Take 6 steps. Take 9 steps. Take 6 steps. Take 2 steps. Turn left. Take 6 steps. Turn around. Take 8 steps.",Yes,No,B
+26,"If you follow these instructions, do you return to the starting point? Take 10 steps. Turn around. Take 4 steps. Take 6 steps. Turn around.",Yes,No,A
+27,"If you follow these instructions, do you return to the starting point? Always face forward. Take 8 steps forward. Take 5 steps backward. Take 5 steps left. Take 5 steps forward.",Yes,No,B
+28,"If you follow these instructions, do you return to the starting point? Turn left. Take 5 steps. Turn around. Turn right.",Yes,No,B
+29,"If you follow these instructions, do you return to the starting point? Always face forward. Take 5 steps forward. Take 7 steps backward. Take 10 steps backward.",Yes,No,B
+30,"If you follow these instructions, do you return to the starting point? Take 7 steps. Take 7 steps. Take 10 steps. Take 1 step. Turn left. Take 7 steps.",Yes,No,B
+31,"If you follow these instructions, do you return to the starting point? Always face forward. Take 4 steps forward. Take 5 steps right. Take 7 steps left.",Yes,No,B
+32,"If you follow these instructions, do you return to the starting point? Take 10 steps. Turn left. Turn left. Take 10 steps.",Yes,No,A
+33,"If you follow these instructions, do you return to the starting point? Take 3 steps. Take 5 steps. Take 8 steps. Turn right. Turn right. Take 5 steps. Turn around. Take 2 steps. Take 4 steps.",Yes,No,B
+34,"If you follow these instructions, do you return to the starting point? Take 7 steps. Take 8 steps. Turn right. Turn right. Take 1 step. Take 7 steps. Take 6 steps. Take 1 step.",Yes,No,A
+35,"If you follow these instructions, do you return to the starting point? Always face forward. Take 7 steps forward. Take 4 steps backward. Take 4 steps backward. Take 5 steps forward. Take 7 steps forward. Take 10 steps backward. Take 1 step backward.",Yes,No,A
+36,"If you follow these instructions, do you return to the starting point? Always face forward. Take 9 steps forward. Take 7 steps left. Take 5 steps backward. Take 4 steps right. Take 3 steps right. Take 4 steps backward.",Yes,No,A
+37,"If you follow these instructions, do you return to the starting point? Always face forward. Take 6 steps right. Take 5 steps right. Take 7 steps left. Take 3 steps left. Take 7 steps left. Take 6 steps right.",Yes,No,A
+38,"If you follow these instructions, do you return to the starting point? Take 1 step. Take 5 steps. Turn around. Turn around. Turn around. Take 6 steps.",Yes,No,A
+39,"If you follow these instructions, do you return to the starting point? Always face forward. Take 2 steps forward. Take 2 steps backward.",Yes,No,A
+40,"If you follow these instructions, do you return to the starting point? Always face forward. Take 8 steps left. Take 6 steps right. Take 10 steps right. Take 2 steps left. Take 5 steps left. Take 1 step left.",Yes,No,A
+41,"If you follow these instructions, do you return to the starting point? Take 6 steps. Take 10 steps. Take 10 steps. Take 1 step. Take 7 steps. Take 5 steps. Turn around.",Yes,No,B
+42,"If you follow these instructions, do you return to the starting point? Always face forward. Take 7 steps left. Take 2 steps backward. Take 7 steps backward. Take 7 steps backward. Take 3 steps forward.",Yes,No,B
+43,"If you follow these instructions, do you return to the starting point? Take 6 steps. Take 8 steps. Take 7 steps. Turn around. Take 6 steps.",Yes,No,B
+44,"If you follow these instructions, do you return to the starting point? Always face forward. Take 7 steps forward. Take 7 steps backward. Take 10 steps backward. Take 10 steps forward.",Yes,No,A
+45,"If you follow these instructions, do you return to the starting point? Turn right. Take 9 steps. Turn around. Take 9 steps. Turn right.",Yes,No,A
+46,"If you follow these instructions, do you return to the starting point? Turn right. Take 9 steps. Take 10 steps. Turn left. Take 10 steps. Turn right. Turn around. Take 4 steps.",Yes,No,B
+47,"If you follow these instructions, do you return to the starting point? Turn left. Turn around. Take 1 step. Take 10 steps. Turn around. Take 7 steps. Take 4 steps.",Yes,No,A
+48,"If you follow these instructions, do you return to the starting point? Always face forward. Take 2 steps right. Take 4 steps right. Take 6 steps left.",Yes,No,A
+49,"If you follow these instructions, do you return to the starting point? Always face forward. Take 7 steps right. Take 1 step forward. Take 3 steps left. Take 2 steps left.",Yes,No,B
+50,"If you follow these instructions, do you return to the starting point? Take 10 steps. Take 7 steps. Turn around. Take 8 steps. Take 9 steps.",Yes,No,A
+51,"If you follow these instructions, do you return to the starting point? Always face forward. Take 2 steps right. Take 2 steps right. Take 4 steps left.",Yes,No,A
+52,"If you follow these instructions, do you return to the starting point? Always face forward. Take 6 steps left. Take 7 steps forward. Take 8 steps left. Take 7 steps left. Take 6 steps forward. Take 1 step forward. Take 4 steps forward.",Yes,No,B
+53,"If you follow these instructions, do you return to the starting point? Take 9 steps. Take 5 steps. Take 2 steps. Take 10 steps. Turn right. Take 10 steps. Take 8 steps.",Yes,No,B
+54,"If you follow these instructions, do you return to the starting point? Turn right. Take 3 steps. Turn around. Take 3 steps. Turn left.",Yes,No,A
+55,"If you follow these instructions, do you return to the starting point? Always face forward. Take 9 steps left. Take 4 steps backward.",Yes,No,B
+56,"If you follow these instructions, do you return to the starting point? Take 9 steps. Turn left. Turn left. Take 5 steps. Take 4 steps. Turn left. Turn left.",Yes,No,A
+57,"If you follow these instructions, do you return to the starting point? Take 4 steps. Take 2 steps. Take 7 steps.",Yes,No,B
+58,"If you follow these instructions, do you return to the starting point? Take 8 steps. Take 1 step. Take 8 steps. Turn right.",Yes,No,B
+59,"If you follow these instructions, do you return to the starting point? Always face forward. Take 5 steps left. Take 5 steps left. Take 10 steps right.",Yes,No,A
+60,"If you follow these instructions, do you return to the starting point? Take 6 steps. Take 2 steps. Take 6 steps.",Yes,No,B
+61,"If you follow these instructions, do you return to the starting point? Always face forward. Take 10 steps forward. Take 10 steps right. Take 10 steps backward. Take 3 steps forward. Take 7 steps forward. Take 9 steps left.",Yes,No,B
+62,"If you follow these instructions, do you return to the starting point? Always face forward. Take 7 steps left. Take 8 steps left. Take 1 step left. Take 9 steps left. Take 10 steps forward. Take 5 steps forward.",Yes,No,B
+63,"If you follow these instructions, do you return to the starting point? Always face forward. Take 1 step right. Take 9 steps left. Take 9 steps right. Take 1 step backward. Take 3 steps right. Take 6 steps backward.",Yes,No,B
+64,"If you follow these instructions, do you return to the starting point? Turn left. Take 4 steps. Turn around. Take 4 steps.",Yes,No,A
+65,"If you follow these instructions, do you return to the starting point? Always face forward. Take 7 steps forward. Take 3 steps backward. Take 4 steps backward.",Yes,No,A
+66,"If you follow these instructions, do you return to the starting point? Take 5 steps. Turn around. Take 10 steps. Turn right. Take 10 steps.",Yes,No,B
+67,"If you follow these instructions, do you return to the starting point? Always face forward. Take 1 step right. Take 4 steps right. Take 5 steps left.",Yes,No,A
+68,"If you follow these instructions, do you return to the starting point? Take 3 steps. Turn left. Turn left. Turn around. Take 5 steps. Turn around. Take 5 steps.",Yes,No,B
+69,"If you follow these instructions, do you return to the starting point? Always face forward. Take 10 steps forward. Take 4 steps backward. Take 6 steps forward.",Yes,No,B
+70,"If you follow these instructions, do you return to the starting point? Always face forward. Take 8 steps backward. Take 2 steps backward. Take 10 steps forward.",Yes,No,A
+71,"If you follow these instructions, do you return to the starting point? Always face forward. Take 6 steps forward. Take 2 steps backward. Take 4 steps backward.",Yes,No,A
+72,"If you follow these instructions, do you return to the starting point? Take 5 steps. Take 5 steps. Take 2 steps. Turn around. Take 8 steps. Take 4 steps.",Yes,No,A
+73,"If you follow these instructions, do you return to the starting point? Always face forward. Take 4 steps forward. Take 2 steps backward. Take 10 steps backward.",Yes,No,B
+74,"If you follow these instructions, do you return to the starting point? Always face forward. Take 9 steps left. Take 7 steps forward. Take 9 steps right. Take 7 steps left. Take 7 steps backward. Take 8 steps right. Take 10 steps left. Take 1 step backward. Take 1 step forward.",Yes,No,B
+75,"If you follow these instructions, do you return to the starting point? Always face forward. Take 9 steps backward. Take 2 steps forward. Take 1 step backward. Take 8 steps forward.",Yes,No,A
+76,"If you follow these instructions, do you return to the starting point? Take 1 step. Take 5 steps. Take 1 step. Take 6 steps. Turn left. Take 7 steps. Take 2 steps. Take 4 steps.",Yes,No,B
+77,"If you follow these instructions, do you return to the starting point? Always face forward. Take 1 step backward. Take 5 steps right. Take 3 steps left. Take 1 step backward. Take 5 steps backward. Take 4 steps forward. Take 3 steps forward. Take 2 steps left.",Yes,No,A
+78,"If you follow these instructions, do you return to the starting point? Always face forward. Take 5 steps right. Take 8 steps backward. Take 1 step right. Take 7 steps backward.",Yes,No,B
+79,"If you follow these instructions, do you return to the starting point? Always face forward. Take 10 steps forward. Take 4 steps forward. Take 7 steps backward. Take 7 steps backward.",Yes,No,A
+80,"If you follow these instructions, do you return to the starting point? Turn around. Turn left. Take 1 step. Take 2 steps. Turn around. Turn around. Turn around. Take 3 steps.",Yes,No,A
+81,"If you follow these instructions, do you return to the starting point? Always face forward. Take 8 steps forward. Take 9 steps right. Take 2 steps forward. Take 10 steps backward. Take 9 steps left.",Yes,No,A
+82,"If you follow these instructions, do you return to the starting point? Take 8 steps. Take 1 step. Turn left. Turn left. Take 9 steps.",Yes,No,A
+83,"If you follow these instructions, do you return to the starting point? Take 2 steps. Turn around. Turn right. Turn left. Take 2 steps. Turn around. Turn around.",Yes,No,A
+84,"If you follow these instructions, do you return to the starting point? Always face forward. Take 1 step backward. Take 5 steps forward. Take 10 steps backward. Take 9 steps forward. Take 7 steps right.",Yes,No,B
+85,"If you follow these instructions, do you return to the starting point? Always face forward. Take 1 step forward. Take 10 steps forward. Take 6 steps backward. Take 7 steps backward. Take 1 step left. Take 10 steps right.",Yes,No,B
+86,"If you follow these instructions, do you return to the starting point? Always face forward. Take 10 steps left. Take 4 steps forward. Take 1 step left. Take 4 steps backward.",Yes,No,B
+87,"If you follow these instructions, do you return to the starting point? Always face forward. Take 3 steps right. Take 5 steps right. Take 2 steps backward.",Yes,No,B
+88,"If you follow these instructions, do you return to the starting point? Turn left. Turn right. Take 8 steps. Take 4 steps. Turn right. Turn right. Take 10 steps. Take 1 step. Take 1 step.",Yes,No,A
+89,"If you follow these instructions, do you return to the starting point? Turn around. Turn around. Take 7 steps. Take 6 steps. Take 5 steps.",Yes,No,B
+90,"If you follow these instructions, do you return to the starting point? Always face forward. Take 10 steps forward. Take 8 steps right. Take 8 steps right. Take 9 steps left. Take 6 steps right. Take 2 steps forward. Take 9 steps backward.",Yes,No,B
+91,"If you follow these instructions, do you return to the starting point? Turn left. Take 9 steps. Take 9 steps.",Yes,No,B
+92,"If you follow these instructions, do you return to the starting point? Always face forward. Take 6 steps left. Take 3 steps backward. Take 3 steps left.",Yes,No,B
+93,"If you follow these instructions, do you return to the starting point? Take 7 steps. Turn around. Take 10 steps. Take 2 steps. Turn around. Take 5 steps. Turn left.",Yes,No,A
+94,"If you follow these instructions, do you return to the starting point? Turn left. Turn left. Take 10 steps. Take 6 steps. Turn left. Take 3 steps. Take 3 steps.",Yes,No,B
+95,"If you follow these instructions, do you return to the starting point? Take 2 steps. Take 8 steps. Take 8 steps. Take 6 steps.",Yes,No,B
+96,"If you follow these instructions, do you return to the starting point? Take 6 steps. Turn right. Turn right. Take 7 steps. Turn around. Take 1 step.",Yes,No,A
+97,"If you follow these instructions, do you return to the starting point? Always face forward. Take 9 steps right. Take 6 steps right. Take 10 steps backward. Take 9 steps left. Take 4 steps left.",Yes,No,B
+98,"If you follow these instructions, do you return to the starting point? Take 3 steps. Take 6 steps. Take 6 steps. Turn left. Take 8 steps. Take 1 step. Take 3 steps. Take 7 steps. Take 8 steps.",Yes,No,B
+99,"If you follow these instructions, do you return to the starting point? Always face forward. Take 6 steps backward. Take 2 steps backward. Take 1 step forward. Take 6 steps forward. Take 3 steps forward.",Yes,No,B
+100,"If you follow these instructions, do you return to the starting point? Take 7 steps. Turn around. Take 7 steps. Turn left. Turn around. Turn around. Turn left.",Yes,No,A
+101,"If you follow these instructions, do you return to the starting point? Turn around. Turn right. Take 7 steps. Turn right.",Yes,No,B
+102,"If you follow these instructions, do you return to the starting point? Always face forward. Take 4 steps right. Take 7 steps right. Take 1 step left. Take 4 steps left. Take 6 steps left.",Yes,No,A
+103,"If you follow these instructions, do you return to the starting point? Turn left. Take 7 steps. Turn left. Turn left. Take 9 steps. Take 2 steps. Turn left. Take 4 steps.",Yes,No,B
+104,"If you follow these instructions, do you return to the starting point? Take 6 steps. Turn left. Take 4 steps. Take 4 steps.",Yes,No,B
+105,"If you follow these instructions, do you return to the starting point? Take 6 steps. Turn left. Take 6 steps. Turn around. Take 2 steps. Take 10 steps.",Yes,No,B
+106,"If you follow these instructions, do you return to the starting point? Take 2 steps. Take 2 steps. Turn around. Take 4 steps. Turn right.",Yes,No,A
+107,"If you follow these instructions, do you return to the starting point? Always face forward. Take 5 steps right. Take 7 steps left. Take 8 steps right. Take 6 steps left.",Yes,No,A
+108,"If you follow these instructions, do you return to the starting point? Take 5 steps. Take 8 steps. Take 2 steps. Turn right. Take 8 steps. Turn left. Take 6 steps. Take 6 steps.",Yes,No,B
+109,"If you follow these instructions, do you return to the starting point? Take 10 steps. Take 8 steps. Turn left. Take 3 steps. Take 1 step. Take 6 steps. Take 7 steps.",Yes,No,B
+110,"If you follow these instructions, do you return to the starting point? Turn around. Turn left. Take 6 steps. Take 4 steps.",Yes,No,B
+111,"If you follow these instructions, do you return to the starting point? Always face forward. Take 5 steps left. Take 4 steps left. Take 1 step left. Take 2 steps left. Take 2 steps right. Take 3 steps left. Take 5 steps forward. Take 3 steps backward.",Yes,No,B
+112,"If you follow these instructions, do you return to the starting point? Take 8 steps. Take 9 steps. Turn around. Take 5 steps. Turn left.",Yes,No,B
+113,"If you follow these instructions, do you return to the starting point? Always face forward. Take 10 steps left. Take 10 steps right. Take 7 steps backward. Take 7 steps forward.",Yes,No,A
+114,"If you follow these instructions, do you return to the starting point? Always face forward. Take 10 steps left. Take 7 steps right. Take 4 steps right. Take 1 step left.",Yes,No,A
+115,"If you follow these instructions, do you return to the starting point? Take 8 steps. Take 2 steps. Turn right. Turn right. Take 10 steps.",Yes,No,A
+116,"If you follow these instructions, do you return to the starting point? Always face forward. Take 7 steps backward. Take 6 steps forward. Take 6 steps backward. Take 7 steps forward.",Yes,No,A
+117,"If you follow these instructions, do you return to the starting point? Take 6 steps. Turn left. Turn left. Take 1 step. Take 5 steps. Turn around.",Yes,No,A
+118,"If you follow these instructions, do you return to the starting point? Always face forward. Take 4 steps backward. Take 8 steps forward. Take 10 steps backward. Take 2 steps forward. Take 4 steps forward.",Yes,No,A
+119,"If you follow these instructions, do you return to the starting point? Always face forward. Take 3 steps forward. Take 3 steps backward.",Yes,No,A
+120,"If you follow these instructions, do you return to the starting point? Take 7 steps. Take 6 steps. Take 5 steps. Turn around. Take 5 steps. Take 3 steps. Take 4 steps. Take 6 steps.",Yes,No,A
+121,"If you follow these instructions, do you return to the starting point? Always face forward. Take 4 steps right. Take 5 steps right. Take 9 steps left.",Yes,No,A
+122,"If you follow these instructions, do you return to the starting point? Turn left. Turn left. Turn around. Take 1 step. Take 6 steps. Turn left. Turn left. Take 7 steps.",Yes,No,A
+123,"If you follow these instructions, do you return to the starting point? Take 6 steps. Take 5 steps. Take 6 steps.",Yes,No,B
+124,"If you follow these instructions, do you return to the starting point? Always face forward. Take 9 steps right. Take 10 steps left. Take 10 steps backward. Take 3 steps backward. Take 5 steps backward. Take 8 steps forward.",Yes,No,B
+125,"If you follow these instructions, do you return to the starting point? Turn right. Take 2 steps. Take 8 steps. Turn around.",Yes,No,B
+126,"If you follow these instructions, do you return to the starting point? Always face forward. Take 6 steps backward. Take 8 steps left. Take 3 steps right. Take 7 steps forward. Take 3 steps right. Take 9 steps right. Take 1 step backward. Take 7 steps left.",Yes,No,A
+127,"If you follow these instructions, do you return to the starting point? Turn left. Take 5 steps. Take 9 steps. Take 7 steps. Turn around. Take 1 step. Take 10 steps.",Yes,No,B
+128,"If you follow these instructions, do you return to the starting point? Always face forward. Take 7 steps backward. Take 1 step forward. Take 1 step backward. Take 5 steps forward. Take 6 steps backward. Take 8 steps forward.",Yes,No,A
+129,"If you follow these instructions, do you return to the starting point? Always face forward. Take 8 steps right. Take 5 steps forward. Take 10 steps forward.",Yes,No,B
+130,"If you follow these instructions, do you return to the starting point? Take 10 steps. Take 2 steps. Take 3 steps. Turn around. Take 4 steps. Turn around. Take 4 steps.",Yes,No,B
+131,"If you follow these instructions, do you return to the starting point? Always face forward. Take 1 step right. Take 2 steps forward. Take 2 steps right. Take 4 steps right.",Yes,No,B
+132,"If you follow these instructions, do you return to the starting point? Always face forward. Take 2 steps forward. Take 2 steps backward. Take 4 steps right. Take 7 steps right.",Yes,No,B
+133,"If you follow these instructions, do you return to the starting point? Take 5 steps. Take 4 steps. Turn around. Take 10 steps. Take 8 steps. Turn around. Take 2 steps. Take 7 steps.",Yes,No,A
+134,"If you follow these instructions, do you return to the starting point? Always face forward. Take 10 steps forward. Take 3 steps backward.",Yes,No,B
+135,"If you follow these instructions, do you return to the starting point? Always face forward. Take 9 steps left. Take 4 steps forward. Take 2 steps forward.",Yes,No,B
+136,"If you follow these instructions, do you return to the starting point? Always face forward. Take 2 steps left. Take 4 steps backward. Take 10 steps right. Take 2 steps left. Take 3 steps left. Take 7 steps right.",Yes,No,B
+137,"If you follow these instructions, do you return to the starting point? Take 2 steps. Turn right. Take 6 steps. Take 10 steps. Take 7 steps.",Yes,No,B
+138,"If you follow these instructions, do you return to the starting point? Always face forward. Take 1 step right. Take 4 steps forward. Take 8 steps forward. Take 6 steps backward. Take 1 step left. Take 6 steps right.",Yes,No,B
+139,"If you follow these instructions, do you return to the starting point? Always face forward. Take 9 steps left. Take 5 steps right. Take 2 steps left. Take 2 steps right. Take 6 steps forward. Take 10 steps backward. Take 1 step forward. Take 6 steps left.",Yes,No,B
+140,"If you follow these instructions, do you return to the starting point? Always face forward. Take 8 steps left. Take 8 steps right.",Yes,No,A
+141,"If you follow these instructions, do you return to the starting point? Take 5 steps. Take 10 steps. Turn around.",Yes,No,B
+142,"If you follow these instructions, do you return to the starting point? Always face forward. Take 5 steps left. Take 7 steps left. Take 2 steps left.",Yes,No,B
+143,"If you follow these instructions, do you return to the starting point? Take 1 step. Take 5 steps. Take 10 steps. Take 4 steps. Take 4 steps. Take 1 step. Turn right.",Yes,No,B
+144,"If you follow these instructions, do you return to the starting point? Turn left. Turn right. Take 5 steps. Take 4 steps. Turn around. Take 9 steps.",Yes,No,A
+145,"If you follow these instructions, do you return to the starting point? Turn around. Turn around. Turn left. Take 7 steps. Take 8 steps.",Yes,No,B
+146,"If you follow these instructions, do you return to the starting point? Turn right. Turn around. Take 2 steps. Take 6 steps. Take 4 steps.",Yes,No,B
+147,"If you follow these instructions, do you return to the starting point? Always face forward. Take 8 steps left. Take 9 steps right. Take 1 step right.",Yes,No,B
+148,"If you follow these instructions, do you return to the starting point? Take 1 step. Take 5 steps. Take 1 step. Turn left. Turn left. Take 9 steps.",Yes,No,B
+149,"If you follow these instructions, do you return to the starting point? Take 2 steps. Turn around. Take 9 steps. Take 7 steps. Take 6 steps. Turn left. Take 2 steps.",Yes,No,B
+150,"If you follow these instructions, do you return to the starting point? Take 7 steps. Take 8 steps. Take 10 steps. Turn around. Turn around. Take 5 steps. Turn around.",Yes,No,B
+151,"If you follow these instructions, do you return to the starting point? Take 9 steps. Turn left. Turn left. Take 9 steps.",Yes,No,A
+152,"If you follow these instructions, do you return to the starting point? Always face forward. Take 3 steps forward. Take 9 steps backward.",Yes,No,B
+153,"If you follow these instructions, do you return to the starting point? Always face forward. Take 5 steps forward. Take 7 steps backward. Take 4 steps right. Take 10 steps backward. Take 4 steps backward.",Yes,No,B
+154,"If you follow these instructions, do you return to the starting point? Always face forward. Take 10 steps right. Take 3 steps forward. Take 8 steps right. Take 2 steps right.",Yes,No,B
+155,"If you follow these instructions, do you return to the starting point? Always face forward. Take 8 steps right. Take 8 steps left.",Yes,No,A
+156,"If you follow these instructions, do you return to the starting point? Always face forward. Take 1 step backward. Take 4 steps left. Take 4 steps left.",Yes,No,B
+157,"If you follow these instructions, do you return to the starting point? Always face forward. Take 5 steps forward. Take 8 steps backward. Take 4 steps forward. Take 4 steps right.",Yes,No,B
+158,"If you follow these instructions, do you return to the starting point? Take 5 steps. Turn around. Take 4 steps. Take 1 step. Turn left. Turn around. Turn left.",Yes,No,A
+159,"If you follow these instructions, do you return to the starting point? Take 10 steps. Turn around. Take 1 step. Take 9 steps. Turn around.",Yes,No,A
+160,"If you follow these instructions, do you return to the starting point? Take 7 steps. Turn around. Take 7 steps.",Yes,No,A
+161,"If you follow these instructions, do you return to the starting point? Always face forward. Take 5 steps backward. Take 8 steps forward. Take 7 steps forward. Take 5 steps backward.",Yes,No,B
+162,"If you follow these instructions, do you return to the starting point? Always face forward. Take 1 step forward. Take 4 steps left. Take 6 steps left. Take 10 steps right. Take 7 steps backward. Take 5 steps left.",Yes,No,B
+163,"If you follow these instructions, do you return to the starting point? Take 1 step. Take 7 steps. Take 1 step.",Yes,No,B
+164,"If you follow these instructions, do you return to the starting point? Turn left. Turn left. Take 6 steps. Take 3 steps. Turn around. Take 1 step. Take 3 steps. Take 5 steps.",Yes,No,A
+165,"If you follow these instructions, do you return to the starting point? Take 10 steps. Turn around. Take 10 steps.",Yes,No,A
+166,"If you follow these instructions, do you return to the starting point? Take 2 steps. Take 1 step. Take 8 steps. Take 4 steps. Turn right. Turn right. Take 4 steps. Turn left. Turn around.",Yes,No,B
+167,"If you follow these instructions, do you return to the starting point? Take 4 steps. Take 5 steps. Take 9 steps. Take 3 steps. Turn right.",Yes,No,B
+168,"If you follow these instructions, do you return to the starting point? Take 3 steps. Take 1 step. Take 10 steps.",Yes,No,B
+169,"If you follow these instructions, do you return to the starting point? Always face forward. Take 8 steps left. Take 2 steps right. Take 6 steps right.",Yes,No,A
+170,"If you follow these instructions, do you return to the starting point? Turn right. Take 10 steps. Turn around. Take 10 steps.",Yes,No,A
+171,"If you follow these instructions, do you return to the starting point? Always face forward. Take 10 steps right. Take 8 steps backward. Take 1 step backward. Take 8 steps backward. Take 8 steps forward.",Yes,No,B
+172,"If you follow these instructions, do you return to the starting point? Always face forward. Take 7 steps backward. Take 4 steps left. Take 7 steps left. Take 7 steps right. Take 8 steps forward.",Yes,No,B
+173,"If you follow these instructions, do you return to the starting point? Take 10 steps. Turn left. Turn around. Take 9 steps. Take 8 steps. Turn right. Turn around. Take 8 steps.",Yes,No,B
+174,"If you follow these instructions, do you return to the starting point? Take 1 step. Take 2 steps. Turn right. Take 6 steps.",Yes,No,B
+175,"If you follow these instructions, do you return to the starting point? Take 2 steps. Take 10 steps. Turn around. Take 6 steps. Turn left. Turn right. Take 6 steps.",Yes,No,A
+176,"If you follow these instructions, do you return to the starting point? Take 7 steps. Take 4 steps. Take 3 steps. Take 10 steps. Turn left. Turn around.",Yes,No,B
+177,"If you follow these instructions, do you return to the starting point? Always face forward. Take 8 steps backward. Take 8 steps forward. Take 10 steps forward. Take 8 steps backward. Take 8 steps right. Take 6 steps backward. Take 7 steps forward. Take 8 steps forward.",Yes,No,B
+178,"If you follow these instructions, do you return to the starting point? Turn left. Turn around. Take 4 steps. Take 5 steps. Turn left. Take 3 steps.",Yes,No,B
+179,"If you follow these instructions, do you return to the starting point? Take 6 steps. Take 2 steps. Take 2 steps. Turn left. Take 5 steps. Take 8 steps. Turn around.",Yes,No,B
+180,"If you follow these instructions, do you return to the starting point? Always face forward. Take 10 steps left. Take 7 steps right. Take 4 steps backward.",Yes,No,B
+181,"If you follow these instructions, do you return to the starting point? Take 10 steps. Take 4 steps. Take 7 steps. Take 1 step. Take 2 steps. Take 10 steps.",Yes,No,B
+182,"If you follow these instructions, do you return to the starting point? Always face forward. Take 6 steps forward. Take 10 steps right. Take 8 steps right.",Yes,No,B
+183,"If you follow these instructions, do you return to the starting point? Take 7 steps. Turn around. Take 7 steps. Turn left.",Yes,No,A
+184,"If you follow these instructions, do you return to the starting point? Always face forward. Take 4 steps forward. Take 5 steps left. Take 6 steps forward. Take 8 steps backward. Take 5 steps backward. Take 1 step backward. Take 1 step backward.",Yes,No,B
+185,"If you follow these instructions, do you return to the starting point? Take 2 steps. Take 3 steps. Turn around. Take 5 steps.",Yes,No,A
+186,"If you follow these instructions, do you return to the starting point? Take 2 steps. Take 10 steps. Take 8 steps.",Yes,No,B
+187,"If you follow these instructions, do you return to the starting point? Turn left. Take 9 steps. Take 2 steps. Take 5 steps. Turn right. Turn right. Take 5 steps. Take 10 steps. Take 1 step.",Yes,No,A
+188,"If you follow these instructions, do you return to the starting point? Turn right. Take 5 steps. Take 6 steps. Take 4 steps. Take 1 step. Turn around. Take 6 steps. Take 10 steps. Turn around.",Yes,No,A
+189,"If you follow these instructions, do you return to the starting point? Always face forward. Take 8 steps left. Take 9 steps left. Take 8 steps right. Take 8 steps left. Take 3 steps right.",Yes,No,B
+190,"If you follow these instructions, do you return to the starting point? Always face forward. Take 9 steps backward. Take 9 steps forward.",Yes,No,A
+191,"If you follow these instructions, do you return to the starting point? Take 2 steps. Take 3 steps. Turn around. Take 4 steps. Take 1 step.",Yes,No,A
+192,"If you follow these instructions, do you return to the starting point? Always face forward. Take 10 steps backward. Take 9 steps backward. Take 9 steps backward. Take 9 steps left. Take 10 steps right. Take 3 steps right. Take 3 steps forward. Take 9 steps right.",Yes,No,B
+193,"If you follow these instructions, do you return to the starting point? Take 3 steps. Turn right. Turn left. Take 5 steps. Take 10 steps. Take 7 steps. Turn left.",Yes,No,B
+194,"If you follow these instructions, do you return to the starting point? Always face forward. Take 10 steps left. Take 10 steps right.",Yes,No,A
+195,"If you follow these instructions, do you return to the starting point? Take 1 step. Take 8 steps. Turn around. Take 8 steps.",Yes,No,B
+196,"If you follow these instructions, do you return to the starting point? Always face forward. Take 10 steps forward. Take 8 steps left. Take 3 steps backward. Take 7 steps right. Take 2 steps forward. Take 4 steps forward. Take 10 steps forward.",Yes,No,B
+197,"If you follow these instructions, do you return to the starting point? Always face forward. Take 4 steps forward. Take 9 steps right. Take 6 steps right. Take 8 steps right.",Yes,No,B
+198,"If you follow these instructions, do you return to the starting point? Take 3 steps. Take 5 steps. Turn around. Take 3 steps. Take 5 steps. Turn right. Turn right.",Yes,No,A
+199,"If you follow these instructions, do you return to the starting point? Always face forward. Take 2 steps backward. Take 5 steps backward. Take 5 steps right. Take 9 steps right.",Yes,No,B
+200,"If you follow these instructions, do you return to the starting point? Always face forward. Take 9 steps left. Take 10 steps forward. Take 9 steps right. Take 10 steps backward.",Yes,No,A
+201,"If you follow these instructions, do you return to the starting point? Take 4 steps. Turn around. Take 4 steps. Turn around. Turn right.",Yes,No,A
+202,"If you follow these instructions, do you return to the starting point? Take 6 steps. Take 4 steps. Turn around. Take 10 steps.",Yes,No,A
+203,"If you follow these instructions, do you return to the starting point? Take 7 steps. Take 1 step. Take 7 steps. Turn left. Take 5 steps.",Yes,No,B
+204,"If you follow these instructions, do you return to the starting point? Take 10 steps. Turn left. Turn left. Take 9 steps. Take 3 steps. Take 3 steps. Turn around. Take 5 steps.",Yes,No,A
+205,"If you follow these instructions, do you return to the starting point? Turn left. Turn right. Take 7 steps. Turn around. Take 7 steps. Turn right. Turn left. Turn right.",Yes,No,A
+206,"If you follow these instructions, do you return to the starting point? Take 8 steps. Take 9 steps. Turn right. Turn right. Take 8 steps. Take 9 steps.",Yes,No,A
+207,"If you follow these instructions, do you return to the starting point? Take 6 steps. Turn around. Take 8 steps. Take 2 steps.",Yes,No,B
+208,"If you follow these instructions, do you return to the starting point? Always face forward. Take 1 step left. Take 4 steps forward. Take 6 steps forward.",Yes,No,B
+209,"If you follow these instructions, do you return to the starting point? Take 3 steps. Take 9 steps. Turn around. Take 2 steps. Take 7 steps. Take 3 steps.",Yes,No,A
+210,"If you follow these instructions, do you return to the starting point? Always face forward. Take 1 step backward. Take 1 step backward. Take 1 step backward. Take 3 steps forward.",Yes,No,A
+211,"If you follow these instructions, do you return to the starting point? Always face forward. Take 6 steps backward. Take 8 steps right. Take 1 step backward. Take 5 steps left. Take 2 steps left.",Yes,No,B
+212,"If you follow these instructions, do you return to the starting point? Always face forward. Take 9 steps left. Take 10 steps left. Take 3 steps left. Take 1 step left. Take 3 steps backward. Take 6 steps left. Take 3 steps forward. Take 4 steps right.",Yes,No,B
+213,"If you follow these instructions, do you return to the starting point? Always face forward. Take 4 steps left. Take 3 steps forward. Take 1 step right.",Yes,No,B
+214,"If you follow these instructions, do you return to the starting point? Always face forward. Take 3 steps right. Take 1 step backward. Take 6 steps left. Take 1 step forward. Take 3 steps right.",Yes,No,A
+215,"If you follow these instructions, do you return to the starting point? Turn right. Turn right. Turn around. Turn left. Take 4 steps. Take 10 steps. Take 8 steps.",Yes,No,B
+216,"If you follow these instructions, do you return to the starting point? Take 10 steps. Turn around. Take 9 steps. Take 10 steps. Turn around. Take 3 steps. Take 6 steps.",Yes,No,A
+217,"If you follow these instructions, do you return to the starting point? Take 7 steps. Take 9 steps. Turn around. Turn right.",Yes,No,B
+218,"If you follow these instructions, do you return to the starting point? Turn around. Take 1 step. Take 2 steps. Take 9 steps. Take 7 steps. Turn left.",Yes,No,B
+219,"If you follow these instructions, do you return to the starting point? Turn right. Take 1 step. Take 7 steps. Take 1 step. Take 5 steps.",Yes,No,B
+220,"If you follow these instructions, do you return to the starting point? Take 1 step. Take 1 step. Take 3 steps. Turn left. Take 6 steps.",Yes,No,B
+221,"If you follow these instructions, do you return to the starting point? Take 5 steps. Take 3 steps. Take 2 steps. Turn around. Take 10 steps.",Yes,No,A
+222,"If you follow these instructions, do you return to the starting point? Take 3 steps. Take 7 steps. Turn around. Take 10 steps.",Yes,No,A
+223,"If you follow these instructions, do you return to the starting point? Always face forward. Take 7 steps left. Take 2 steps right. Take 5 steps backward. Take 8 steps left. Take 7 steps forward. Take 7 steps right. Take 9 steps forward.",Yes,No,B
+224,"If you follow these instructions, do you return to the starting point? Always face forward. Take 7 steps backward. Take 9 steps left.",Yes,No,B
+225,"If you follow these instructions, do you return to the starting point? Turn around. Take 4 steps. Turn around. Take 4 steps.",Yes,No,A
+226,"If you follow these instructions, do you return to the starting point? Always face forward. Take 6 steps left. Take 6 steps right.",Yes,No,A
+227,"If you follow these instructions, do you return to the starting point? Turn right. Take 5 steps. Turn around. Take 5 steps. Turn around.",Yes,No,A
+228,"If you follow these instructions, do you return to the starting point? Always face forward. Take 2 steps backward. Take 3 steps backward. Take 3 steps backward. Take 8 steps forward.",Yes,No,A
+229,"If you follow these instructions, do you return to the starting point? Take 3 steps. Take 10 steps. Take 4 steps. Take 1 step.",Yes,No,B
+230,"If you follow these instructions, do you return to the starting point? Take 9 steps. Turn around. Take 9 steps. Turn around.",Yes,No,A
+231,"If you follow these instructions, do you return to the starting point? Always face forward. Take 10 steps right. Take 7 steps backward. Take 3 steps left. Take 8 steps backward. Take 3 steps backward. Take 8 steps right.",Yes,No,B
+232,"If you follow these instructions, do you return to the starting point? Take 7 steps. Turn around. Turn around. Turn around. Take 1 step. Take 6 steps.",Yes,No,A
+233,"If you follow these instructions, do you return to the starting point? Always face forward. Take 5 steps backward. Take 4 steps backward. Take 9 steps forward.",Yes,No,A
+234,"If you follow these instructions, do you return to the starting point? Always face forward. Take 5 steps left. Take 1 step backward. Take 4 steps right. Take 1 step backward. Take 8 steps left. Take 6 steps left.",Yes,No,B
+235,"If you follow these instructions, do you return to the starting point? Always face forward. Take 3 steps forward. Take 3 steps backward. Take 3 steps backward. Take 7 steps left. Take 7 steps right. Take 8 steps backward. Take 4 steps backward.",Yes,No,B
+236,"If you follow these instructions, do you return to the starting point? Turn around. Take 2 steps. Take 8 steps. Turn around. Take 10 steps. Turn around.",Yes,No,A
+237,"If you follow these instructions, do you return to the starting point? Always face forward. Take 6 steps forward. Take 4 steps forward. Take 9 steps backward. Take 1 step backward.",Yes,No,A
+238,"If you follow these instructions, do you return to the starting point? Take 5 steps. Take 5 steps. Take 7 steps. Take 10 steps.",Yes,No,B
+239,"If you follow these instructions, do you return to the starting point? Always face forward. Take 6 steps backward. Take 7 steps left. Take 4 steps backward. Take 8 steps backward. Take 3 steps left.",Yes,No,B
+240,"If you follow these instructions, do you return to the starting point? Always face forward. Take 2 steps backward. Take 4 steps backward. Take 6 steps forward.",Yes,No,A
+241,"If you follow these instructions, do you return to the starting point? Take 10 steps. Turn around. Turn right. Turn left.",Yes,No,B
+242,"If you follow these instructions, do you return to the starting point? Always face forward. Take 7 steps left. Take 8 steps right. Take 10 steps backward. Take 4 steps left.",Yes,No,B
+243,"If you follow these instructions, do you return to the starting point? Always face forward. Take 5 steps right. Take 4 steps backward. Take 8 steps left. Take 5 steps left. Take 6 steps backward. Take 9 steps forward. Take 5 steps right. Take 1 step forward. Take 3 steps right.",Yes,No,A
+244,"If you follow these instructions, do you return to the starting point? Always face forward. Take 6 steps right. Take 1 step forward. Take 4 steps right. Take 4 steps left. Take 8 steps left. Take 2 steps forward. Take 9 steps forward. Take 3 steps left.",Yes,No,B
+245,"If you follow these instructions, do you return to the starting point? Turn left. Take 9 steps. Take 3 steps. Turn right.",Yes,No,B
+246,"If you follow these instructions, do you return to the starting point? Always face forward. Take 6 steps right. Take 9 steps left. Take 5 steps left. Take 8 steps right.",Yes,No,A
+247,"If you follow these instructions, do you return to the starting point? Always face forward. Take 4 steps left. Take 5 steps backward. Take 2 steps forward.",Yes,No,B
+248,"If you follow these instructions, do you return to the starting point? Always face forward. Take 10 steps backward. Take 8 steps backward. Take 10 steps forward. Take 7 steps backward. Take 1 step forward. Take 7 steps right. Take 1 step left. Take 1 step right.",Yes,No,B
+249,"If you follow these instructions, do you return to the starting point? Always face forward. Take 7 steps backward. Take 10 steps right. Take 4 steps forward. Take 1 step left.",Yes,No,B
