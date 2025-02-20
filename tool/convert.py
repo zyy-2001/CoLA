@@ -34,7 +34,7 @@ Answer:
 
 
 
-with open('gsm8k-1.json', 'r', encoding='utf-8') as file:
+with open('gsm8k.json', 'r', encoding='utf-8') as file:
     data = json.load(file)
 
 # Load existing data from the file
