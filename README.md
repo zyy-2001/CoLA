@@ -20,6 +20,8 @@ conda env create -f environment.yaml
 conda activate llama_factory
 ```
 
+## ⚠️ Notice
+
 **We have conducted additional experiments on the recent Qwen2.5 series models of different scales：[Qwen2.5-3B](https://huggingface.co/Qwen/Qwen2.5-3B), [Qwen2.5-7B](https://huggingface.co/Qwen/Qwen2.5-7B), and [Qwen2.5-14B](https://huggingface.co/Qwen/Qwen2.5-14B). Please make sure to download these weights into the `models` directory. For the fine-tuning and evaluation of the Qwen2.5 series models, we have uploaded an additional script, which can be run directly using the following command:**
 
 ```python
