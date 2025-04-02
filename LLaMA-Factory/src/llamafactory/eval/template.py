@@ -76,7 +76,7 @@ _register_eval_template(
 
 _register_eval_template(
     name="zh",
-    system="以下是中国关于{subject}考试的单项选择题，请选出其中的正确答案。\n\n",
+    system="以下是关于{subject}的多项选择题（附答案）。请仅提供正确的选项（一个大写字母）。\n\n",
     choice="\n{choice}. {content}",
     answer="\n答案：",
 )
