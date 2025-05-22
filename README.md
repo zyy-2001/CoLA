@@ -1,6 +1,14 @@
-# 📍![1727842522286](assets/logo.png)CoLA: Collaborative Low-Rank Adaptation (ACL ARR 2025 February submitted)
+# 📍![1727842522286](assets/logo.png)CoLA: Collaborative Low-Rank Adaptation (ACL 2025 Findings)
 
-PyTorch implementation of [CoLA](https://openreview.net/forum?id=tWqJVTbguL).
+PyTorch implementation of [CoLA]([https://openreview.net/forum?id=tWqJVTbguL](https://arxiv.org/abs/2505.15471)).
+
+<h5 align=center>
+
+[![arXiv](https://img.shields.io/badge/Arxiv-2503.02539-red?logo=arxiv&label=Arxiv&color=red)]([https://arxiv.org/abs/2503.02539](https://arxiv.org/abs/2505.15471))
+[![License](https://img.shields.io/badge/Code%20License-MIT%20License-yellow)](https://github.com/zyy-2001/CoLA/blob/master/LICENSE)
+![GitHub Repo stars](https://img.shields.io/github/stars/zyy-2001/CoLA)
+
+</h5>
 
 For reproducibility, we open-source our data and code; the open-source list is as follows.
 
@@ -18,22 +26,6 @@ Enter the `LLaMA-Factory` directory, download the [Llama-3.2-3B](https://hugging
 ```python
 conda env create -f environment.yaml
 conda activate llama_factory
-```
-
-## ⚠️ Notice
-
-**We have conducted additional experiments on the recent Qwen2.5 series models of different scales：[Qwen2.5-3B](https://huggingface.co/Qwen/Qwen2.5-3B), [Qwen2.5-7B](https://huggingface.co/Qwen/Qwen2.5-7B), and [Qwen2.5-14B](https://huggingface.co/Qwen/Qwen2.5-14B). Please make sure to download these weights into the `models` directory. For the fine-tuning and evaluation of the Qwen2.5 series models, we have uploaded an additional script, which can be run directly using the following command:**
-
-```python
-########### Train ###########
-bash scripts/train_qwen3B.sh
-bash scripts/train_qwen7B.sh
-bash scripts/train_qwen14B.sh
-
-########### Test ###########
-bash scripts/test_qwen3B.sh
-bash scripts/test_qwen7B.sh
-bash scripts/test_qwen14B.sh
 ```
 
 ## ✨Fine-tuning
@@ -136,4 +128,19 @@ CUDA_VISIBLE_DEVICES=0 llamafactory-cli eval --model_name_or_path ./[Llama-3.2-3
 
 ```python
 CUDA_VISIBLE_DEVICES=0 llamafactory-cli eval --model_name_or_path ./[Llama-3.2-3B or Llama-3.1-8B] --template llama3 --task bbh_test_None --lang en --n_shot 0 --batch_size 8 --trust_remote_code --adapter_name_or_path ./saves/[Llama-3.2-3B or Llama-3.1-8B]/Multi-tasking
+```
+
+
+## ⚠️Citation
+If you find our work valuable, we would appreciate your citation: 
+```text
+@misc{zhou2025colacollaborativelowrankadaptation,
+      title={CoLA: Collaborative Low-Rank Adaptation}, 
+      author={Yiyun Zhou and Chang Yao and Jingyuan Chen},
+      year={2025},
+      eprint={2505.15471},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2505.15471}, 
+}
 ```
