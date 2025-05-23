@@ -4,7 +4,7 @@ PyTorch implementation of [CoLA]([https://openreview.net/forum?id=tWqJVTbguL](ht
 
 <h5 align=center>
 
-[![arXiv](https://img.shields.io/badge/Arxiv-2503.02539-red?logo=arxiv&label=Arxiv&color=red)]([https://arxiv.org/abs/2503.02539](https://arxiv.org/abs/2505.15471))
+[![arXiv](https://img.shields.io/badge/Arxiv-2505.15471-red?logo=arxiv&label=Arxiv&color=red)]([https://arxiv.org/abs/2505.15471](https://arxiv.org/abs/2505.15471))
 [![License](https://img.shields.io/badge/Code%20License-MIT%20License-yellow)](https://github.com/zyy-2001/CoLA/blob/master/LICENSE)
 ![GitHub Repo stars](https://img.shields.io/github/stars/zyy-2001/CoLA)
 
