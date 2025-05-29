@@ -72,7 +72,7 @@ dependencies:
       - joblib==1.4.2
       - jwcrypto==1.5.6
       - kiwisolver==1.4.8
-      - llamafactory==0.9.2.dev0
+      - llamafactory==0.9.2
       - markdown-it-py==3.0.0
       - markupsafe==2.1.5
       - matplotlib==3.10.0
