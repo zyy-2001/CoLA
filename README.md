@@ -28,6 +28,9 @@ conda env create -f environment.yaml
 conda activate llama_factory
 ```
 
+If you encounter any issues during the installation steps above, you can refer to this: [#1](https://github.com/zyy-2001/CoLA/issues/1) (🌹Many thanks to ArkNightmaster for sharing information about the environment setup)
+
+
 ## ✨Fine-tuning
 
 - Generality
